@@ -1,0 +1,529 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pattern of ecclesiastical ordination, or, Apostolick separation being a discourse upon Acts the 13. 4,5 ... / by Edward Wakeman ...</title>
+            <author>Wakeman, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66440</idno>
+            <idno type="STC">Wing W275</idno>
+            <idno type="STC">ESTC R5294</idno>
+            <idno type="EEBO-CITATION">12085905</idno>
+            <idno type="OCLC">ocm 12085905</idno>
+            <idno type="VID">53746</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53746)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 829:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pattern of ecclesiastical ordination, or, Apostolick separation being a discourse upon Acts the 13. 4,5 ... / by Edward Wakeman ...</title>
+                  <author>Wakeman, Edward.</author>
+               </titleStmt>
+               <extent>[4], 39 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Richard Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Acts XIII, 4-5 --  Criticism, interpretation, etc.</term>
+               <term>Apostolate (Christian theology)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53746:1"/>
+            <pb facs="tcp:53746:1" rendition="simple:additions"/>
+            <p>THE PATTERN OF Eccleſiaſtical ORDINATION, OR APOSTOLICK SEPARATION. Being a Diſcourſe upon <hi>Acts</hi> the 13.4, 5. At firſt intended for the ſatisfaction of ſome Ob<g ref="char:EOLhyphen"/>jections raiſed upon the ſaid Trinitary Text by a Pri<g ref="char:EOLhyphen"/>vate, Worthy Friend, and now by his deſire made publick for the Satisfaction and Inſtructi<g ref="char:EOLhyphen"/>on of others whom it may concern. By <hi>Edward Wakeman,</hi> Rector of St. <hi>Matthews</hi> Fri<g ref="char:EOLhyphen"/>day-ſtreet: London.</p>
+            <q>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<bibl>Concil Gangrenſ. can. 6.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J.G.</hi> for <hi>Richard Royston,</hi> at the Angel in <hi>Ivie-lane.</hi> 1664.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:53746:2"/>
+            <p>IMPRIMATUR:</p>
+            <closer>
+               <signed>
+                  <hi>Geo. Stradling</hi> S.T.P. <hi>Rever. in Chriſto Pat. D. Gilb. Archiep. Cant. à Sac. Domeſt.</hi>
+               </signed>
+               <dateline>Ex Aed. Lamb. <date>Junii 22. 1664.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:53746:2"/>
+            <head>To the moſt Reverend Father in God, And the Right Honourable, GILBERT, Lord Archbiſhop of CANTERBURY, Primate and Metropolitan of all <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and one of the Lords of his Majeſties moſt Honourable Privy Council.</head>
+            <opener>
+               <salute>Moſt Reverend Father in God,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I conſider, as I cannot but often do ſo, (for <hi>Ingratitude</hi> is an unpardona<g ref="char:EOLhyphen"/>ble crime) the Largeneſs of your For<g ref="char:EOLhyphen"/>mer Favours, amongſt the reſt of my Honourable Friends; and that Influence I receiv'd from you, when you ſhone ſo bright in a ſomewhat lower Orb than now you do: I cannot, but confeſs at leaſt, my debts to you far greater, than ever I ſhall be ever able to pay.</p>
+            <p>
+               <hi>Children</hi> can never make a ſufficient return un<g ref="char:EOLhyphen"/>to their <hi>Parents,</hi> though they ſhould honour them with all they have, all that they can do or ſuffer: ſince without <hi>them</hi> they could never have been in a
+<pb facs="tcp:53746:3"/>capacity of <hi>Being,</hi> much leſs of <hi>Well Being. Im<g ref="char:EOLhyphen"/>mortales gratiarum horti.</hi>
+            </p>
+            <p>This makes me now ſo bold to preſent this ſmall Handful of Tender, Firſt Fruits unto your <hi>Grace,</hi> which I confeſs were againſt my Will Crop'd from me by a Friendly, Over-powerful hand.</p>
+            <p>And indeed, <hi>to whom</hi> ſhould I devote the Pat<g ref="char:EOLhyphen"/>tern of <hi>Eccleſiaſtick Ordination,</hi> but to the Grea<g ref="char:EOLhyphen"/>teſt Apoſtle and Arch Angel of it in this our Church, next under Chriſt, Your Self?</p>
+            <p>It is no ceremonious but Fundamental point, the Ordination to and execution of the Miniſterial Fun<g ref="char:EOLhyphen"/>ction. And yet, I expect hard cenſures from the World on all ſides: but Fear none that are uncharitable.</p>
+            <p>If any will but take the pains to teach me better, I ſhall be thankful.</p>
+            <p>However your Lordſhip and the World may gueſs by this, how I ſpend that Talent of Health and Time, &amp;c. which God is pleaſed to Lend me.</p>
+            <p>I caſt both it and my ſelf at your Graces Feet; and think my ſelf to have obtain'd enough, if it find acceptance with or Protection from, you</p>
+            <closer>
+               <salute>My Lord, Whoſe obedient Son and Servant, in the Bleſſed Jeſus, I am,</salute>
+               <signed>Edward Wakeman.</signed>
+               <date>
+                  <hi>July</hi> 5th. 1664.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:53746:3"/>
+            <head>THE PATTERN OF Eccleſiaſtical Ordination: Or Apoſtolic Separation.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Acts 13.4, 5.</hi>
+                  </bibl>
+                  <p n="4">4. So they being ſent forth by the Holy Ghoſt, de<g ref="char:EOLhyphen"/>parted —</p>
+                  <p n="5">5. And when they were at <hi>Salamis,</hi> they Preached the word of God in the Synagogues of the Jews.</p>
+                  <p>
+                     <hi>The whole ſtory runs thus,</hi>
+                  </p>
+                  <p>
+                     <hi>V. 1.</hi> Now there were in the Church that was at <hi>Antioch,</hi> certain Prophets and Teachers, as <hi>Barnabas,</hi> and <hi>Simeon</hi> that was called <hi>Niger,</hi> and <hi>Lucius</hi> of <hi>Cyrene,</hi> and <hi>Manaen</hi> which had been brought up with <hi>Herod</hi> the <hi>Tetrarch,</hi> and <hi>Saul.</hi>
+                  </p>
+                  <p>
+                     <hi>V. 2.</hi> And as they miniſtred unto the Lord and Faſted, the holy Ghoſt ſaid, Separate me <hi>Barnabas</hi> and <hi>Saul,</hi> for the work whereunto I have called them.</p>
+                  <p>
+                     <hi>V. 3.</hi> And when they had faſted and prayed, and laid their hands on them, they ſent them away.</p>
+                  <pb n="2" facs="tcp:53746:4"/>
+                  <p>
+                     <hi>V. 4.</hi> So they being ſent forth by the holy Ghoſt, departed unto <hi>Seleucia,</hi> and from thence they ſailed to <hi>Cyprus.</hi>
+                  </p>
+                  <p>
+                     <hi>V. 5.</hi> And when they were at <hi>Salamis,</hi> they Preached the Word of God in the Synagogues of the Jews.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Text is a relation of the entrance of two that were ſolemnly ordained upon the ſacred Miniſterial Fun<g ref="char:EOLhyphen"/>ction.</p>
+            <p>
+               <hi>Paul</hi> and <hi>Barnabas</hi> after ſome con<g ref="char:EOLhyphen"/>ſiderable time ſpent amongſt the ſage and learned Prophets at <hi>Anti<g ref="char:EOLhyphen"/>och,</hi> that noble nurſery, and ſuch reputation gotten, as that they were thought fit enough to be intruſted with a publick employment for the Church at <hi>Jeruſalem</hi> (nor that without deſert, for St. <hi>Luke</hi> tells us at the 9. and 11. chapters, <hi>They were full of the Holy Ghoſt)</hi> are now by vertue of an expreſs from the ſame <hi>Holy Ghoſt, ſeparated,</hi> or, (which is all one) conſecrated to their Apoſtleſhip, <hi>by the laying on of hands.</hi>
+            </p>
+            <p>I call it their <hi>Apoſtleſhip,</hi> rather than <hi>Epiſcopacy</hi> or <hi>Prieſthood</hi> (though neither interpretation want its Pa<g ref="char:EOLhyphen"/>trons) as finding in their execution of that Function whereunto they were now <hi>call'd</hi> (and we do not read of any new <hi>Ordination</hi> of them afterwards) little agree<g ref="char:EOLhyphen"/>ment with the Office of a <hi>Biſhop,</hi> it being limited to ſome particular Church; and leſs with that of a <hi>Pres<g ref="char:EOLhyphen"/>byter,</hi> which gave him neither power of <hi>Ordaining</hi> nor yet of <hi>Cenſures:</hi> both which St. <hi>Paul</hi> at leaſt is recor<g ref="char:EOLhyphen"/>ded to have exerciſed, and that indifferently, in any part of the World.</p>
+            <p>Beſides that it ſeems too much below the <hi>Eminency</hi> of an <hi>Apoſtle</hi> (though the Schoolmen be not aſhamed
+<pb n="3" facs="tcp:53746:4"/>to faſten all their ſeven Orders upon our Saviour Chriſt himſelf) to be tyed to thoſe Gradations, now when the Spirit was poured out upon all Fleſh, which were only neceſſary for the ſucceeding Chriſtian Church, where<g ref="char:EOLhyphen"/>in the <hi>Gifts</hi> of the <hi>holy Ghoſt</hi> were in great part to be ſupplied by <hi>Mans endeavour.</hi>
+            </p>
+            <p>This <hi>Apoſtleſhip</hi> therefore being conferr'd upon them, immediately like faithful <hi>Stewards</hi> they appli<g ref="char:EOLhyphen"/>ed themſelves diligently to the Performance of their charge, <hi>And being ſent forth by the Holy Ghoſt depar<g ref="char:EOLhyphen"/>ted — And when they were at</hi> Salamis <hi>they preached the word of God in the Synagogues of the Jews.</hi>
+            </p>
+            <p>In the <hi>former</hi> part of which words we have laid down <hi>their commiſsion</hi> for <hi>this great Function</hi> in theſe words, <hi>Being ſent forth by the Holy Ghoſt.</hi>
+            </p>
+            <p>In the <hi>latter</hi> we have expreſſed <hi>their Exerciſe of that Function,</hi> Synechdochically layed down in theſe words, <hi>They departed and preached the word of God in the Syna<g ref="char:EOLhyphen"/>gogues of the Jews.</hi>
+            </p>
+            <p>Their <hi>Commiſsion</hi> is twofold.</p>
+            <p>Firſt, <hi>Internal</hi> from the <hi>Holy Ghoſt,</hi> expreſſed in the text, <hi>ſent forth by the Holy Ghoſt.</hi>
+            </p>
+            <p>Secondly, <hi>External</hi> from the <hi>Church,</hi> implied by the <hi>connexion</hi> of this with the former verſe, <hi>They on whom the Prophets had layed their hands, They were ſent forth by the Holy Ghoſt.</hi>
+            </p>
+            <p>Which <hi>Commiſsion</hi> from the <hi>Church,</hi> if we again conſider with <hi>Reflection</hi> upon this from the <hi>Holy Ghoſt,</hi> we may obſerve by way of <hi>Deduction</hi> the joynt con<g ref="char:EOLhyphen"/>currence of the one with the other, or the certain effect of this <hi>Impoſition of hands, the gift of the Holy Ghoſt.</hi>
+            </p>
+            <p>In, or from the 2. part, I ſhall ſhew you that the <hi>duty</hi> of
+<pb n="4" facs="tcp:53746:5"/>ſuch as are thus <hi>Commiſsioned</hi> by the <hi>Holy Ghoſt</hi> and by the <hi>Church,</hi> is <hi>Preaching,</hi> and what that <hi>Preaching</hi> was, is, or ought to be.</p>
+            <p>But before I enter upon the particulars named, be<g ref="char:EOLhyphen"/>cauſe the text hath been otherwiſe by ſome interpre<g ref="char:EOLhyphen"/>ted; it will be very requiſite that I give you ſome ac<g ref="char:EOLhyphen"/>count of the expoſition that I mean to follow. For,</p>
+            <p>There are who contend that <hi>Ordination</hi> is nothing concerned in this place; that <hi>Paul</hi> and <hi>Barnabas</hi> were not by this <hi>Impoſition of hands</hi> admitted to any degree <hi>Miniſterial,</hi> but only received it in way of a <hi>Bleſsing</hi> up<g ref="char:EOLhyphen"/>on the expedition they were now about to be imploy<g ref="char:EOLhyphen"/>ed in.</p>
+            <p>So our Annotator upon the <hi>Rhemiſts</hi> interprets it, which we might ſuſpect, done out of too much heat of contention; and that becauſe <hi>They</hi> had expounded <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the ſecond verſe, <hi>Saying of Maſs, He</hi> would needs find fault too with their conſtruing <hi>Im<g ref="char:EOLhyphen"/>poſition of hands,</hi> in the next verſe, <hi>Giving of orders,</hi> but that we find the ſame opinion in ſome of the <hi>Roma<g ref="char:EOLhyphen"/>niſts</hi> too; all of them grounding it upon St. <hi>Pauls</hi> aſ<g ref="char:EOLhyphen"/>ſertion in the beginning of his Epiſtle to the <hi>Galatians, chap.</hi> 1. <hi>v.</hi> the 1. <hi>Paul an Apoſtle, not of men, neither by man, but by Jeſus Chriſt.</hi>
+            </p>
+            <p>For anſwer to which, it is confeſs'd, not only that <hi>Paul</hi> had an <hi>Immediate calling</hi> from <hi>God</hi> but alſo that ſuch a <hi>Miſsion</hi> was altogether as eſſential to the <hi>Apo<g ref="char:EOLhyphen"/>ſtleſhip,</hi> as to the <hi>Prophets</hi> in the Old Teſtament.</p>
+            <p>But this <hi>Calling</hi> or <hi>Sending</hi> was nothing elſe proper<g ref="char:EOLhyphen"/>ly but the <hi>Deſignation</hi> and <hi>Appointment</hi> of fit perſons; which while the <hi>High-Prieſt</hi> of the <hi>New-Covenant</hi> was preſent with them, had perhaps annex'd unto it their <hi>Inauguration: Both</hi> however were received <hi>imme<g ref="char:EOLhyphen"/>diately</hi> from him,</p>
+            <pb n="5" facs="tcp:53746:5"/>
+            <p>After his <hi>Aſcenſion</hi> this latter muſt needs be left in the hands of the <hi>Church.</hi>
+            </p>
+            <p>Nor doth it any way blemiſh their Prerogative above the after-Fathers of the Church, to own Ordi<g ref="char:EOLhyphen"/>nation <hi>By man,</hi> ſince their Maſter had vouchſaf'd to receive the ſacrament of <hi>Baptiſm</hi> from one, who he himſelf had pronounced <hi>leſs than the leaſt of</hi> theſe <hi>Pro<g ref="char:EOLhyphen"/>phetical Ordainers.</hi>
+            </p>
+            <p>So then our Apoſtle was not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>receiving his authority from Men,</hi> nor is any Presbyter: For all are ſent by the <hi>Holy Ghoſt;</hi> neither was he <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>deſigned</hi> or <hi>choſen by man</hi> to this Miniſtery, as all ordi<g ref="char:EOLhyphen"/>nary Paſtors are; but he might nevertheleſs be or<g ref="char:EOLhyphen"/>dained by man, and ſo (to omit late Interpreters,) St. <hi>Chryſoſtom</hi> tells us, he was (<hi>in his Homily upon my text,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,) as having no authority to exerciſe his <hi>Apoſtleſhip</hi> to which he was called by ſpecial <hi>Direction</hi> from the <hi>Holy Ghoſt,</hi> till he was ordained to it <hi>by the laying on of hands.</hi>
+            </p>
+            <p>So that there is no reaſon why <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the text urged, ſhould be any more then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the 1. to <hi>Timothy, by the commandment of God,</hi> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in almoſt all the reſt of his Epiſtles, <hi>by the will of God.</hi>
+            </p>
+            <p>Nor is it worth the while for them to urge the Letter of the <hi>Syriack</hi> tranſlation, which renders it, <hi>Not of the ſons of man, nor by the hand of the ſon of man;</hi> for it follows, <hi>but by the hand of Jeſus Chriſt;</hi> which is enough, methinks, to make them forſake the argument, and look better into the Propriety of the Language.</p>
+            <p>It ſeems then not improbable, that all Apoſtles after Chriſts Aſcenſion into Heaven, received their
+<pb n="6" facs="tcp:53746:6"/>Apoſtleſhip by <hi>Impoſition of hands</hi> from the <hi>Church.</hi>
+            </p>
+            <p>That <hi>Timothy</hi> had his office <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>by the de<g ref="char:EOLhyphen"/>ſignation of the Spirit</hi> is not to be denied; 1 <hi>Tim.</hi> 4.14. But yet that it was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>with the laying on of hands,</hi> is clear from the ſame place, and more ex<g ref="char:EOLhyphen"/>preſly and particularly from another, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>by the laying on of my hands,</hi> 2 <hi>Tim.</hi> 1.6. And do we not read that <hi>Timothy</hi> was plac'd at <hi>Epheſus,</hi> as <hi>Titus</hi> was left at <hi>Grete,</hi> to ordain others after the ſame manner? <hi>Tit.</hi> 1.5.</p>
+            <p>Even <hi>Matthias</hi> himſelf, of whoſe choice we find men<g ref="char:EOLhyphen"/>tion without any of his <hi>Ordination;</hi> For though our <hi>Engliſh</hi> in tranſlating <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>he was numbred with,</hi> make the text ſeem to imply him ſufficiently inſtated in his Apoſtolate, by having the lot fallen up<g ref="char:EOLhyphen"/>on him, yet the Original will better bear <hi>Eraſmus</hi>'s <hi>Cooptatus eſt,</hi> or <hi>Beza</hi>'s <hi>Communibus calculis allectus,</hi> after which, implying only a Nomination, might well follow a ſolemn Admiſsion, though we have no mention of it in this ſacred Hiſtory.</p>
+            <p>Here you ſee we have an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, from the <hi>Holy Ghoſt</hi> for <hi>Barnabas</hi> and <hi>Saul,</hi> the Holy Ghoſt ſaid, <hi>ſe<g ref="char:EOLhyphen"/>parate me Barnabas and Saul,</hi> for the work whereunto I have called them, at the ſecond verſe. Which to ſay, was no more than <hi>ſend away Barnabas and Saul to Cy<g ref="char:EOLhyphen"/>prus,</hi> betrayes ſo much <hi>Ignorance</hi> in the uſe of that expreſsion in both Teſtaments, that I think it can<g ref="char:EOLhyphen"/>not find much <hi>entertainment</hi> with any Perſon of Reaſon.</p>
+            <p>This <hi>Separation</hi> therefore was nothing elſe but their <hi>Ordination,</hi> and the <hi>conferring</hi> that power upon them which the <hi>Holy Ghoſt</hi> now call'd them to by an <hi>Exter<g ref="char:EOLhyphen"/>nal, Extraordinary</hi> Call, and afterwards ratified by an
+<pb n="7" facs="tcp:53746:6"/>
+               <hi>Internal, Ordinary</hi> Calling, at their <hi>laying on of hands</hi> up<g ref="char:EOLhyphen"/>on them.</p>
+            <p>And ſo I come to the <hi>Firſt</hi> part of my text, which re<g ref="char:EOLhyphen"/>preſents unto us their <hi>Commiſsion,</hi> and that <hi>firſt</hi> from the <hi>Holy Ghoſt,</hi> expreſly given us in theſe words,
+<q>— <hi>Being ſent forth by the Holy Ghoſt</hi>
+               </q>
+            </p>
+            <p>This is the firſt particular, namely, that the <hi>Holy Ghoſt</hi> is the <hi>Superintendent</hi> or the <hi>Unction,</hi> they re<g ref="char:EOLhyphen"/>ceiving their <hi>Commiſsion</hi> from him.</p>
+            <p>That by the <hi>Holy Ghoſts ſending,</hi> is rather to be un<g ref="char:EOLhyphen"/>derſtood his <hi>Inward giving</hi> them that <hi>Power</hi> which their <hi>Ordination</hi> intituled them unto, than either his <hi>Extraordinary Calling</hi> of them, before mentioned in the ſecond verſe, or the <hi>Secret Inſtinct</hi> of the Spirit di<g ref="char:EOLhyphen"/>recting them whither they ſhould go (though both ex<g ref="char:EOLhyphen"/>poſitions have their throngs of Aſſertors) I am for my part, induced to think, becauſe the <hi>former</hi> Inter<g ref="char:EOLhyphen"/>pretation ſeems to impoſe a needleſs <hi>repetition</hi> upon the text: the <hi>latter,</hi> (beſides that this <hi>Cyprus</hi> whither they went, was <hi>Barnabas</hi>'s own Countrey (as appears plainly at the latter end of the 4. chap.) ſo that he might in all probability be carried thither by his own Affection) hath none or very few <hi>Parallels</hi> in this Hi<g ref="char:EOLhyphen"/>ſtory or elſewhere, either <hi>Hiſtorical</hi> or <hi>Gramma<g ref="char:EOLhyphen"/>tical.</hi>
+            </p>
+            <p>For firſt, how many Journeys of S. <hi>Paul</hi> and others do we here meet withall without the leaſt mention of the <hi>Holy Ghoſts ſending?</hi> it being ſufficiently known and elſewhere to be collected, that they were directed by him in almoſt all their <hi>undertakings.</hi>
+            </p>
+            <p>And then ſecondly, <hi>The ſpirit of Propheſie</hi> (except where in general thoſe Extraordinary gifts are expreſs'd in one, as St. <hi>John</hi> 7.39. and the like) is not uſually
+<pb n="8" facs="tcp:53746:7"/>called, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but barely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not the <hi>Holy Ghoſt,</hi> but the <hi>Spirit,</hi> as you may ſee in the 11, 19, 20, and 21. chap. of this book, to name no more; whereas this power of <hi>Orders</hi> is ſtyled the <hi>holy Ghoſt</hi> in <hi>that</hi> very <hi>form</hi> which the greateſt part of the Weſtern Church hath taken up from our Saviours own mouth.</p>
+            <p>And in the 20. of this book <hi>v.</hi> 28. the <hi>Presbyters</hi> which were <hi>ordained</hi> by the Apoſtles, are charged by S. <hi>Paul</hi> at <hi>Miletus,</hi> to <hi>take heed unto the Flock, over which the Holy Ghoſt had made them overſeers.</hi> Theſe had no <hi>Extraordinary Miſsion</hi> as our <hi>Apoſtle</hi> here, and yet <hi>They</hi> were <hi>ſent by the Holy Ghoſt;</hi> and therefore, why not <hi>Theſe</hi> in the <hi>ſame ſenſe?</hi> For,</p>
+            <p>In the 2. <hi>v.</hi> they were ſent by him upon his <hi>Immedi<g ref="char:EOLhyphen"/>ate choice and appointment:</hi> In the text they were ſent by him upon his <hi>Beſtowing that Power</hi> which the <hi>Pro<g ref="char:EOLhyphen"/>phets</hi> at <hi>Antioch</hi> bid them receive at their <hi>laying on of hands.</hi>
+            </p>
+            <p>So then from the <hi>Holy Ghoſt</hi> comes all <hi>Power</hi> to ex<g ref="char:EOLhyphen"/>erciſe any ſacred Miniſterial Office in the <hi>Church</hi> of God. This was the chiefeſt buſineſs of God the Fa<g ref="char:EOLhyphen"/>ther, and God the Sons breathing forth or ſending down the <hi>Holy Ghoſt</hi> from Heaven, to qualify and make ſome fit for the performance of Church-work, with his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. his <hi>gifts,</hi> according to their ſeveral <hi>ſtations</hi> and <hi>capacities;</hi> for when Chriſt gave the <hi>gifts</hi> of the <hi>Holy Ghoſt</hi> to men, <hi>Epheſ.</hi> 4.8. <hi>He gave ſome Apoſtles, ſome Evangeliſts, ſome Paſtors and Teachers for the per<g ref="char:EOLhyphen"/>fecting of the Saints, for the work of the Miniſtery, verſe</hi> the 11 And as a learned obſerver ſays very well, <hi>All the reaſon in the world that he ſhould have a ſpecial hand in giving, where himſelf is to be received.</hi> Receive ye the Holy Ghoſt, <hi>Joh.</hi> 20.22.</p>
+            <pb n="9" facs="tcp:53746:7"/>
+            <p>Whoſoever therefore undertakes this <hi>Warfare</hi> (for ſo the work of the <hi>Levites</hi> is often call'd in the book of <hi>Numbers</hi>) without a <hi>Commiſsion</hi> from him, <hi>viz.</hi> the <hi>Holy Ghoſt,</hi> though he make pretence of never ſo plau<g ref="char:EOLhyphen"/>ſible <hi>Intentions,</hi> is but a <hi>Traytor</hi> to the <hi>Holy Ghoſt,</hi> and can look for no better thanks than <hi>Uzzah</hi> had for his <hi>Officious Prophanation.</hi>
+            </p>
+            <p>For though there be mention here of <hi>Apoſtles</hi> only receiving the <hi>Holy Ghoſt,</hi> 'tis evident they receiv'd not this Gift as <hi>Apoſtles,</hi> but as entring into an <hi>Eccleſiaſti<g ref="char:EOLhyphen"/>cal Miniſtery:</hi> elſe why did they impart the ſame af<g ref="char:EOLhyphen"/>terwards to <hi>Biſhops</hi> and <hi>Presbyters,</hi> which St. <hi>Pauls</hi> Hiſtory and Writings do abundantly witneſs.</p>
+            <p>The text then doth as nearly concern <hi>Us</hi> at preſent in the <hi>Chriſtian Church,</hi> as if <hi>Paul</hi> and <hi>Barnabas</hi> had been <hi>now</hi> ordained <hi>Prieſts.</hi>
+            </p>
+            <p>So that I may without offence (I hope) to the ſcope of the Hiſtory, take a view of it, eſpecially as it repre<g ref="char:EOLhyphen"/>ſents us with the <hi>Prieſts Ordination,</hi> the chief buſineſs of this preſent ſolemnity.</p>
+            <p>And that we may be the better aſcertain'd, that it is the <hi>Holy Ghoſt</hi> who gives this <hi>Power;</hi> let us enquire, ſo far as we may, what the <hi>Power</hi> is, and how diſtingui<g ref="char:EOLhyphen"/>ſhed from <hi>other Gifts</hi> of the <hi>Holy Ghoſt</hi> who thus com<g ref="char:EOLhyphen"/>miſsions.</p>
+            <p>Not to run too far <hi>backwards,</hi> but to begin with the <hi>Apoſtles</hi> themſelves.</p>
+            <p>You may obſerve in the Goſpel that the <hi>Holy Ghoſt</hi> is twice promiſed by our Saviour to his Apoſtles, <hi>once</hi> under the promiſe of the <hi>Keys,</hi> in the 16 of St. <hi>Matthew v.</hi> the 18. about two years before his <hi>Paſsion:</hi> after<g ref="char:EOLhyphen"/>wards under the promiſe of a <hi>Comforter</hi> (or as the lear<g ref="char:EOLhyphen"/>ned <hi>Grotius</hi> tranſlates it, an <hi>Advocate</hi>) <hi>Luke</hi> 24.49. af<g ref="char:EOLhyphen"/>ter
+<pb n="10" facs="tcp:53746:8"/>his <hi>Reſurrection</hi> (though ye ſhall find the ſame Pro<g ref="char:EOLhyphen"/>miſe made unto them, and often repeated the Day be<g ref="char:EOLhyphen"/>fore his <hi>Paſsion,</hi> in the 14, 15, and 16. chapters of <hi>St. John,</hi> and ſome moneths before that, to all <hi>Beleevers,</hi> St. <hi>John</hi> 7.38. and yet ſooner to his <hi>Apoſtles</hi> in the 10. of St. <hi>Mat. v.</hi> the 20)</p>
+            <p>The <hi>Former</hi> of theſe was performed after his <hi>Reſur<g ref="char:EOLhyphen"/>rection,</hi> S. <hi>John</hi> 20.22. when he ſaid unto them, <hi>Re<g ref="char:EOLhyphen"/>ceive ye the holy Ghoſt, whoſe ſoever ſins ye remit, they are remitted, and whoſe ſoever ſins ye retain, they are re<g ref="char:EOLhyphen"/>tained.</hi> The <hi>Latter</hi> was performed upon the day of <hi>Pen<g ref="char:EOLhyphen"/>tecoſt;</hi> as appears in the ſecond of the <hi>Acts</hi> of the Apo<g ref="char:EOLhyphen"/>ſtles, when the <hi>holy Ghoſt came down from Heaven in the ſhape of cloven fiery Tongues,</hi> which came as it were in a <hi>windy, ruſhing</hi> Chariot, and <hi>ſate upon each of them, yea and</hi> inſpired them with the <hi>Gift</hi> of <hi>Tongues, verſe</hi> 1, 2, 3, &amp;c.</p>
+            <p>Now <hi>Both</hi> theſe gifts had a <hi>Power</hi> annex'd unto them.</p>
+            <p>With the <hi>Firſt,</hi> was a <hi>Power</hi> of the <hi>Keys;</hi>
+            </p>
+            <p>The <hi>Other</hi> was a <hi>Power from on high,</hi> a <hi>Power</hi> of <hi>convi<g ref="char:EOLhyphen"/>ction</hi> by <hi>Miracles, When the Comforter is come, he ſhall convince the world of Sin, of Righteouſneſs, &amp; of Judg<g ref="char:EOLhyphen"/>ment,</hi> St. <hi>John</hi> 16.8. A <hi>Power</hi> of <hi>Anſwering</hi> for them<g ref="char:EOLhyphen"/>ſelves without <hi>taking thought before hand;</hi> When they ſhould be brought before Governours, for the name and the cauſe of Chriſt, St. <hi>Mat.</hi> 10.18, 19, 20. And a <hi>Power</hi> of <hi>knowledge of the truth,</hi> St. John 14.26. <hi>The Comforter which is the holy Ghoſt, whom the Father will ſend in my name, he ſhall teach you all things.</hi>
+            </p>
+            <p>You ſhall find a <hi>third Power</hi> given by Chriſt to his Apoſtles, immediately upon having created them <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> a power <hi>of Miracles,</hi> St. <hi>Mat.</hi> 10.1. <hi>He gave them
+<pb n="11" facs="tcp:53746:8"/>Power againſt unclean Spirits to caſt them out, and to heal all manner of Sickneſs, and all manner of Diſeaſe.</hi>
+            </p>
+            <p>There is <hi>Laſtly,</hi> another ſort of <hi>Gifts</hi> of the <hi>Holy Ghoſt,</hi> which though they were always in the Church of God, yet <hi>Now</hi> firſt came under that name. And thoſe are ſuch as the Apoſtle reckons up in the 12 of his Epiſtle to the <hi>Rom. v.</hi> the 8. <hi>He that giveth let him do it with ſimplicity: He that ruleth, with diligence: He that ſhew<g ref="char:EOLhyphen"/>eth mercy, with cheerfulneſs:</hi> Together with ſeveral <hi>other</hi> graces which he reckons up, and calls <hi>Gifts</hi> in the 6. <hi>verſe, (Having then gifts, differing according to the grace that is given to us,)</hi> and <hi>Fruit of the Spirit</hi> in his 5. to the <hi>Gal. v.</hi> the 22.</p>
+            <p>That theſe <hi>Ghoſtly Gifts</hi> of the fourth kind of <hi>Sancti<g ref="char:EOLhyphen"/>fying Graces,</hi> are perpetually to be enjoyed by the faith<g ref="char:EOLhyphen"/>ful, is confeſs'd on all hands.</p>
+            <p>That the <hi>Power of Miracles</hi> which the Apoſtles ex<g ref="char:EOLhyphen"/>erciſed while Chriſt was upon the Earth, was <hi>a Gift Ex<g ref="char:EOLhyphen"/>traordinary,</hi> and not to out-laſt their own times, will be eaſily admitted among us: and the ſame of that which was given at the Feaſt of <hi>Pentecoſt:</hi> excepting that part of it mentioned in the 14. of St. <hi>John, The Gift</hi> of <hi>knowledge,</hi> which we muſt warily diſtinguiſh, what it was in the <hi>Apoſtles,</hi> and what in the <hi>ſucceeding</hi> Church; They had in its <hi>Fulneſs,</hi> they were taught <hi>all</hi> things by it, but after ages had only that <hi>Proportion</hi> which ſeemed good to the <hi>Author</hi> and <hi>Diſpoſer</hi> of it. For,</p>
+            <p>Should we leave this wholly among the <hi>Extraordi<g ref="char:EOLhyphen"/>nary Gifts</hi> of the <hi>Apoſtles,</hi> we had quite relinquiſhd our intereſt in the <hi>Comforter,</hi> and ſhould have no more reaſon to look for him at our <hi>Veni Creator,</hi> than to expect the mighty ruſhing <hi>Wind</hi> or the <hi>Sound</hi> from Heaven, or the <hi>Cloven Tongues</hi> as of <hi>Fire.</hi>
+            </p>
+            <pb n="12" facs="tcp:53746:9"/>
+            <p>The controverſie then lies in the <hi>Gift</hi> firſt named, which is the ſame we enquire after: ſome making it the ſame with <hi>Sanctifying Grace:</hi> ſome the ſame with <hi>Grace Enabling</hi> for the Performance, which I take to be nothing elſe but that <hi>Gift of Knowledge</hi> under the ſecond kind of Graces mentioned; and of theſe, ſome there are (in our own Church I mean,) who think it no<g ref="char:EOLhyphen"/>thing inferiour to that which the Apoſtles had, A plain <hi>Infallibility:</hi> The reſt confound it with that <hi>Gift</hi> of the <hi>Comforter,</hi> as it belongs to the Univerſal Church.</p>
+            <p>They that think it the ſame with <hi>Sanctifying Grace,</hi> (to ſay no more) muſt needs forget that <hi>Judas Iſcariot,</hi> (in whom was <hi>little</hi> or <hi>no</hi> ſign rather of <hi>Sanctifying Grace,</hi> when he betrayed his Maſter,) was, one of the twelve, and (if we may draw any parallel from the Law) that <hi>Caiaphas</hi> the High Prieſt propheſied, St. <hi>John</hi> 11. <hi>v.</hi> 49, 50. and 18, 14.</p>
+            <p>They would eaſily confeſs that it is too poſsible there may be <hi>more</hi> employed in the <hi>Building</hi> of Gods <hi>Ark</hi> the <hi>Church,</hi> than ſhall be <hi>preſerved</hi> in it.</p>
+            <p>To them who imagine an <hi>Infallibility</hi> of the <hi>Spirit</hi> ac<g ref="char:EOLhyphen"/>companying all true <hi>Ordination,</hi> and dare call them <hi>Lay<g ref="char:EOLhyphen"/>men,</hi> which arrive not at the ſame <hi>perfection</hi> of <hi>know<g ref="char:EOLhyphen"/>ledge</hi> which they dream themſelves Maſters of (when indeed to differ from them in any one fond opinion is enough to fetch us under this Cenſure) the woful expe<g ref="char:EOLhyphen"/>rience of their too fruitful <hi>Errors</hi> is a ſufficient an<g ref="char:EOLhyphen"/>ſwer.</p>
+            <p>And Laſtly, that <hi>Holy Orders</hi> conſiſt in being <hi>quali<g ref="char:EOLhyphen"/>fied</hi> in ſome meaſure with abilities fit for the <hi>Execution</hi> of them, hath not any Authority, ſo far as I can find, from holy Writ: For although God do require this <hi>Ability</hi> in every one, in ſome more, in ſome leſs, yet
+<pb n="13" facs="tcp:53746:9"/>he hath not paſs'd any promiſe to tye it to the <hi>Chur<g ref="char:EOLhyphen"/>ches Ordination:</hi> for, the Comforter is no otherwiſe promiſed than other Graces of ſpecial Favour, upon condition of our <hi>receiving</hi> them; And we have too ſad experience that we do often <hi>Grieve</hi> and <hi>Quench</hi> this <hi>Holy Spirit</hi> of God in our <hi>Underſtanding,</hi> as well as in our <hi>Conſcience.</hi>
+            </p>
+            <p>Whatſoever therefore it is, it muſt needs be an Ac<g ref="char:EOLhyphen"/>ceſsion to the <hi>Prieſthood,</hi> and we are to acknowledge <hi>God</hi> the <hi>Author</hi> of a double Bleſsing, when he provides <hi>Bezaliels</hi> and <hi>Aboliabs</hi> for the work of this his <hi>Spiritual Tabernacle.</hi> Whereas he hath then promiſed this <hi>Power</hi> of <hi>Orders</hi> to all that enter upon his more <hi>Imme<g ref="char:EOLhyphen"/>diate ſervice,</hi> when he directed the Apoſtles to lay us down that pattern of <hi>Ordination.</hi> It being a Gift of per<g ref="char:EOLhyphen"/>petual <hi>Neceſsity</hi> in the <hi>Church,</hi> which if at any time it were denyed, would open a gap to <hi>confuſion</hi> in the <hi>Diſ<g ref="char:EOLhyphen"/>penſation</hi> or <hi>Adminiſtration</hi> of holy things, which can in no wiſe proceed from the God of <hi>Order</hi> and <hi>De<g ref="char:EOLhyphen"/>corum.</hi>
+            </p>
+            <p>It remains that the <hi>Gift</hi> of the <hi>Holy Ghoſt</hi> in <hi>Ordinati<g ref="char:EOLhyphen"/>on</hi> is nothing elſe but that <hi>Authority</hi> and <hi>Right</hi> the Or<g ref="char:EOLhyphen"/>dained have in the <hi>Adminiſtration</hi> of Divine <hi>Myſteries; That</hi> Gift whereby the Prieſt (not to ſpeak here of the <hi>Biſhops Power</hi>) hath a kind of <hi>property</hi> in <hi>Diſpenſing</hi> Gods holy written word and Sacraments, in <hi>Offering</hi> up the publick prayers of the Congregation for them, and in <hi>Pronouncing</hi> Gods ſentence of pardon or condemna<g ref="char:EOLhyphen"/>tion upon them.</p>
+            <p>And this is properly our <hi>Inward Calling:</hi>
+            </p>
+            <p>Thoſe other gifts of <hi>Grace</hi> and <hi>Knowledge</hi> (ſuch as <hi>Arts,</hi> and <hi>Languages,</hi> and <hi>Virtues</hi>) which may <hi>precede</hi> our <hi>Ordination,</hi> as they are <hi>Motives</hi> to any man ſo
+<pb n="14" facs="tcp:53746:10"/>qualified <hi>to offer</hi> himſelf to the Church of Gods <hi>ſer<g ref="char:EOLhyphen"/>vice,</hi> are an <hi>Invitation,</hi> and in that ſenſe, an <hi>Inward Calling.</hi> As they do enable any man for the perfor<g ref="char:EOLhyphen"/>mance of his <hi>Duty;</hi> they are not a warrantable <hi>Calling</hi> but a <hi>Bleſsing,</hi> and do not confer any <hi>Right</hi> upon him to the <hi>Prieſthood,</hi> but only <hi>ſtrengthen</hi> his hands in the <hi>Diſcharge</hi> of it.</p>
+            <p>Were this rightly conſidered, the world would not be ſo full of miſtakes concerning the <hi>Call</hi> to the <hi>Fun<g ref="char:EOLhyphen"/>ction.</hi>
+            </p>
+            <p>But do we not now rather wonder that the <hi>Holy Ghoſt</hi> reſerves not this ſo great a <hi>Gift</hi> in his <hi>own</hi> hands, than that he owns the <hi>Donation</hi> of it?</p>
+            <p>It is a <hi>Power</hi> over the <hi>Conſciences,</hi> over the <hi>Souls</hi> of men, That by which our Saviour differences <hi>God</hi> him<g ref="char:EOLhyphen"/>ſelf from the moſt <hi>Potent</hi> upon earth, at the 10. of St. <hi>Mat. Fear not them which kill the body, but are not able to kill the ſoul.</hi> And can <hi>Man</hi> confer this <hi>Power</hi> of his <hi>own authority?</hi> No, 'Tis the <hi>Lord</hi> of the <hi>Harveſt</hi> that muſt ſend theſe <hi>Labourers</hi> into his Vineyard: and he never ſends them into it by a <hi>Falſe Key,</hi> through a <hi>Back Dore,</hi> over the <hi>Wall,</hi> or in at a <hi>Window:</hi> But hath given Order and Power to his <hi>Church</hi> to let them in by a ſo<g ref="char:EOLhyphen"/>lemn <hi>Conſecration</hi> of them to his Service; And ſo I am fallen upon</p>
+            <p>The <hi>ſecond</hi> particular, or <hi>ſecond</hi> part of their Com<g ref="char:EOLhyphen"/>miſsion: Their <hi>External Commiſsion</hi> for what they un<g ref="char:EOLhyphen"/>dertake, given them, by the <hi>laying on of hands, They on whom the Prophets had layed their hands, They were ſent forth by the holy Ghoſt.</hi>
+            </p>
+            <p>In the days of old, there were three ſorts of Perſons that were <hi>Anointed,</hi> The <hi>King,</hi> The <hi>Prieſt,</hi> and the <hi>Prophet;</hi> who though they were <hi>deſigned</hi> and <hi>Appoin<g ref="char:EOLhyphen"/>ted</hi>
+               <pb n="15" facs="tcp:53746:10"/>by <hi>God,</hi> had yet ſome <hi>External, Ceremonious</hi> actions performed towards them by <hi>Man.</hi>
+            </p>
+            <p>And thus in the <hi>New</hi> Teſtament, though the <hi>Holy Ghoſt</hi> be the <hi>Unction,</hi> yet there is no way for it to be <hi>applied</hi> but by the <hi>Laying on of hands.</hi>
+            </p>
+            <p>Which <hi>Impoſition</hi> of <hi>hands</hi> is here put for all the ceremonies of <hi>Ordination,</hi> as <hi>Preaching</hi> afterwards for the Apoſtles <hi>Office,</hi> by a kind of <hi>Synechdoche,</hi> a <hi>part</hi> being being put for the <hi>whole,</hi> and is much us'd in Holy Scripture.</p>
+            <p>The more eſſential ceremony is the <hi>form</hi> of words uſed with it, <hi>Receive the holy Ghoſt,</hi> &amp;c.</p>
+            <p>So that, that late obſervation of the uſe of <hi>Impoſi<g ref="char:EOLhyphen"/>tion of hands</hi> upon <hi>Lay-men,</hi> for Election into <hi>their</hi> Of<g ref="char:EOLhyphen"/>fice, had better have been ſpared than publiſhed, to be layed open, as it is, to the giddy mis-interpretation of troubleſome unſetled times, and quarrelſome, irrecon<g ref="char:EOLhyphen"/>cileable Spirits. For,</p>
+            <p>What if the <hi>ſame</hi> were there uſed (which was long enough ago confeſs'd?) Is therefore a <hi>Presbyter</hi> and <hi>an Elder</hi> of the ſame Sanhedrim all one? both equally con<g ref="char:EOLhyphen"/>ſecrated and ſet apart from the People? Theſe will be the collections of ſome readers: Whereas if the Au<g ref="char:EOLhyphen"/>thor had but mentioned the <hi>Forms</hi> of our <hi>Ordination,</hi> as he hath done <hi>thoſe</hi> of the <hi>Jews,</hi> it had been an eaſie matter for every one to ſee ſome <hi>difference</hi> between <hi>Sit tibi facultas Judicandi,</hi> and <hi>Accipe Spiritum Sanctum.</hi>
+            </p>
+            <p>And thoſe two Ceremonies, ſome of the Church of <hi>Rome</hi> (cited by <hi>Franciſcus de Sancta Clara,</hi> upon our 36. Article) acknowledge ſufficient for <hi>Ordination,</hi> reckoning <hi>Unction</hi> to be but a miſtake of the Greek Fathers expreſsions, by underſtanding <hi>Material</hi> where they meant <hi>Spiritual:</hi> All (excepting ſome <hi>Sycophants</hi>
+               <pb n="16" facs="tcp:53746:11"/>of the Court of <hi>Rome,</hi> that affirm the Pope can make a <hi>Prieſt</hi> by a Prieſt, nay though never ſo far diſtant, by <hi>ſaying</hi> only <hi>Eſto ſacerdos,</hi>) count them neceſſary chiefly in reſpect of the Apoſtles practiſe, which in things not depending upon <hi>circumſtances</hi> variable, ſtands for a <hi>Law</hi> to their <hi>Succeſſors;</hi> but then withall perhaps, in as much as it is ſcarce poſsible for the Church to expreſs in few<g ref="char:EOLhyphen"/>er ſigns her <hi>Commiſsion,</hi> without which we can have no aſſurance of the <hi>Holy Ghoſts.</hi>
+            </p>
+            <p>Having in the beginning of this diſcourſe ſhewed that <hi>Barnabas</hi> and <hi>Saul</hi> and others were <hi>manumi'zd</hi> by the Church even in thoſe very times wherein the <hi>Holy Ghoſt</hi> was ſhed forth in an <hi>ample</hi> meaſure, and that <hi>Men</hi> have always had to do in giving <hi>Commiſsions</hi> to all ſuch as are to execute any office in the Church: I might from hence preſs the <hi>neceſsity of a calling from the Church,</hi> which <hi>Calvine</hi> himſelf urges from this place <hi>in the</hi> 4. <hi>book, the</hi> 3. <hi>ch. the</hi> 14 <hi>Section of his Inſtitutes,</hi> in theſe words, <hi>Sic Paulum quoque Singulari praerogati<g ref="char:EOLhyphen"/>vâ Dominus per ſeipſum deſignavit, ut Diſciplinâ Ec<g ref="char:EOLhyphen"/>cleſiaſticae Vocation is interim uteretur.</hi>
+            </p>
+            <p>But ſince this is an Article not denied by any, but ſuch who have ſo far renounc'd their <hi>Underſtanding,</hi> that they are reſolved to <hi>hearken</hi> to <hi>none</hi> but their <hi>own</hi> Schiſ<g ref="char:EOLhyphen"/>matical, Fanatick <hi>Teachers,</hi> I conceive it more perti<g ref="char:EOLhyphen"/>nent and of greater concernment, and more advantagi<g ref="char:EOLhyphen"/>ous to the Fathers and Sons of the Church, to clear the Text from giving Patronage to that opinion ſo magni<g ref="char:EOLhyphen"/>fied of late, that <hi>the power of Ordination belongs of right to the Presbytery,</hi> (a Poſition condemned by the Coun<g ref="char:EOLhyphen"/>cil of <hi>Trent, Seſſ.</hi> 23. <hi>can.</hi> 7.) <hi>and is but uſurped by the Biſhop.</hi>
+            </p>
+            <p>If I would enter upon a diſcourſe of the <hi>Biſhops</hi>
+               <pb n="17" facs="tcp:53746:11"/>Right in <hi>Ordination,</hi> I might tell them, It was a very <hi>Ancient</hi> Uſurpation (if it be one) even within one year after Chriſts Aſcenſion into Heaven (as Chronologers reckon it) For we find (at the 6. of this book, which treats of things done within the 33. year of Chriſt) the <hi>Apoſtles</hi> laying on their hands upon the <hi>ſeaven Dea<g ref="char:EOLhyphen"/>cons,</hi> without any <hi>challenge</hi> from the <hi>Seventy two</hi> of be<g ref="char:EOLhyphen"/>ing <hi>excluded.</hi>
+            </p>
+            <p>But to keep to the Text: It will ſuffice to enquire by <hi>what</hi> Title theſe Prophets of <hi>Antioch</hi> exerciſed this <hi>Power,</hi> and ſo conſequently whether <hi>their practice</hi> be a ſufficient ground for <hi>this Opinion.</hi>
+            </p>
+            <p>That it is not the ſame Power to <hi>Ordain</hi> a <hi>Prieſt</hi> and to <hi>Ordain</hi> an <hi>Apoſtle,</hi> is true; But it makes the more for them, ſince it is far more plauſible to ſay, that <hi>Prieſts have a power to ordain a Prieſt,</hi> than that <hi>they have ſo to conſecrate a Biſhop.</hi>
+            </p>
+            <p>Some therefore to avoid this, ſay, there were <hi>Biſhops</hi> among theſe <hi>Prophets,</hi> three at leaſt; Others ſay, that the <hi>Prophets</hi> themſelves did not lay their hands on them, but ſent them to the <hi>Apoſtles</hi> at <hi>Jeruſalem,</hi> and that it was <hi>they</hi> that layed their hands on them.</p>
+            <p>A learned Divine among us, with far greater proba<g ref="char:EOLhyphen"/>bility, affirms, they were <hi>more</hi> than meer <hi>Presbyters,</hi> in that they were <hi>Prophets,</hi> reckoned at the 4. of S. <hi>Pauls</hi> Epiſtle to the <hi>Epheſ. v.</hi> the 11 in the <hi>next</hi> rank to the <hi>Apoſtles, before Evangeliſts,</hi> they themſelves being even Apoſtles <hi>Secundi Ordinis,</hi> if I miſtake not his meaning.</p>
+            <p>The two <hi>former</hi> Opinions have <hi>no</hi> countenance at all from the Text, and ſo I leave them; The <hi>Laſt</hi> Inter<g ref="char:EOLhyphen"/>pretation, though very probable, may admit of ſome diſpute: ſince the Scripture ſeems to evidence that this
+<pb n="18" facs="tcp:53746:12"/>
+               <hi>Spirit of Prophecy</hi> (which is thought chiefly to conſiſt in <hi>Interpreting the word</hi> of God by Immediate <hi>Inſpira<g ref="char:EOLhyphen"/>tion</hi>) was at this firſt breaking forth of the Sun-beams of the Goſpel, communicated to far greater numbers of men, than were likely to have any <hi>Precedence</hi> or <hi>Autho<g ref="char:EOLhyphen"/>rity</hi> in the Church, <hi>above Presbyters.</hi>
+            </p>
+            <p>Read the 14. of the 1 Epiſtle to the <hi>Corinthians,</hi> and you ſhall find the Apoſtle exhorting all his <hi>Corinthians</hi> to deſire eſpecially the <hi>Gift of Prophecying:</hi> and at the 34. <hi>v.</hi> of the ſame <hi>chapter,</hi> he commands <hi>Women to keep ſilence in the Church,</hi> implying that <hi>They</hi> alſo ſometimes had this <hi>Gift of Prophecying:</hi> as we ſee <hi>Acts</hi> 21.9. <hi>Phil<g ref="char:EOLhyphen"/>lips Daughters</hi> were <hi>Propheteſſes,</hi> agreeable to Gods pro<g ref="char:EOLhyphen"/>miſe repeated out of the Prophet <hi>Joel,</hi> at the ſecond of the <hi>Acts, verſe</hi> the 17. <hi>your Daughters ſhall Pro<g ref="char:EOLhyphen"/>phecy.</hi>
+            </p>
+            <p>The reſult of which will be, that theſe <hi>Prophets</hi> were rather <hi>Inferiour</hi> to <hi>Presbyters</hi> in <hi>Authority</hi> than <hi>above</hi> them, though perhaps ſometimes <hi>Fuller of the Holy Ghoſt,</hi> that is, better <hi>enabled</hi> by the <hi>Spirit</hi> for the performance of that part of the <hi>Presbyters</hi> charge which conſiſted <hi>in Preaching.</hi>
+            </p>
+            <p>And therefore, ſince we cannot conclude they had the <hi>Power</hi> of <hi>Ordaining Apoſtles,</hi> unleſs we acknow<g ref="char:EOLhyphen"/>ledge them at leaſt <hi>equal</hi> to Apoſtles, which this Inter<g ref="char:EOLhyphen"/>pretation doth not make good: with ſubmiſsion to the Reverend Author, or any other who ſhall otherwiſe in<g ref="char:EOLhyphen"/>ſtruct me, I think we need not contend for their <hi>Supe<g ref="char:EOLhyphen"/>riority</hi> above <hi>Presbyters:</hi> but rather be contented with this, that whatever they were they did not this by any <hi>Power</hi> tranferr'd upon them in <hi>ordinary,</hi> no not even as they were <hi>Prophets,</hi> but by <hi>Particular, Extraordinary Appointment</hi> and <hi>Revelation</hi> from the <hi>Holy Ghoſt.</hi> For
+<pb n="19" facs="tcp:53746:12"/>ſo much St. <hi>Luke</hi> tells us expreſly in the next <hi>verſe</hi> ſave one before my Text, <hi>As they miniſtred to the Lord and Faſted, the Holy Ghoſt ſaid, Separate me</hi> Bar<g ref="char:EOLhyphen"/>nabas <hi>and</hi> Saul <hi>for the work whereunto I have called them.</hi>
+            </p>
+            <p>What then will this advantage them towards the grounding a perpetual <hi>practice</hi> on it?</p>
+            <p>Durſt the <hi>Jews</hi> (do you think) <hi>conſecrate</hi> an <hi>High-Prieſt</hi> without <hi>thoſe Ceremonies</hi> mentioned in the 8. or 9. <hi>chap.</hi> of <hi>Levit.</hi> becauſe <hi>God</hi> himſelf did <hi>diſpenſe</hi> with them in the <hi>Conſecration</hi> of <hi>Eleazer</hi> upon Mount <hi>Hor, Num.</hi> 20? Or,</p>
+            <p>Might the <hi>Prieſts</hi> preſume to uſe any <hi>other Altar</hi> for <hi>Burnt Offerings,</hi> than that in the <hi>Tabernacle,</hi> becauſe God for the <hi>Conviction</hi> of <hi>Baals Prophets,</hi> approved of <hi>Elijahs Sacrifice,</hi> which he offered upon ſtones that we do not read where were ever <hi>Hallowed,</hi> 1 <hi>Kings</hi> 18?</p>
+            <p>Why did not <hi>They</hi> who had ſo many Judgements de<g ref="char:EOLhyphen"/>nounc'd againſt them, for letting their <hi>children paſſe through the fire,</hi> make this reply for their Innocency, Lord, why doſt thou lay thine heavy hand upon us? Didſt not thou command the Father of the Faithful, thy ſervant <hi>Abraham, to offer up his Son, his only Son Iſaac</hi> for a burnt Sacrifice?</p>
+            <p>If the <hi>Prophets</hi> at <hi>Antioch</hi> ordained ſome upon a ſpecial <hi>command</hi> from the <hi>Holy Ghoſt:</hi> Let not <hi>Presby<g ref="char:EOLhyphen"/>ters</hi> challenge to themſelves the <hi>ſame Power</hi> till they can ſhew the <hi>ſame Patent</hi> for it. But,</p>
+            <p>If it were abſolutely neceſſary, nay only lawful to follow all Examples recorded in Holy Writ, and which too perhaps are not therein condemn'd, we ſhould quickly daſh the firſt againſt the ſecond Table, and caſt off our Service to God, our Obedience to the Church, and our Love to one another.</p>
+            <pb n="20" facs="tcp:53746:13"/>
+            <p>The Conſequences would be ſuch as this; there were but twelve that Chriſt adminiſtred the Bleſſed Sacrament unto, before he departed this world, and they were all Men, and his Diſciples, yea Apoſtles, and it was after Supper, in an upper chamber, and in <hi>Jeruſa<g ref="char:EOLhyphen"/>lem,</hi> together with many other circumſtances, the leaſt whereof if any omitted, would look but of a <hi>bad com<g ref="char:EOLhyphen"/>plection. There muſt be no more,</hi> nor any other now.</p>
+            <p>But to the buſineſs in hand. Without all queſtion it is not over ſafe for any <hi>Presbyters</hi> to venture upon the conferring of <hi>Orders</hi> upon any, where there are no <hi>Biſhops.</hi> For though,</p>
+            <p>Thoſe Churches beyond Sea, (not to meddle with our Neighbours) urge the Example of the <hi>Levites,</hi> ex<g ref="char:EOLhyphen"/>ecuting the <hi>Prieſts Office,</hi> when the Prieſts were too few, at the 29 of the 2 book of <hi>Chron.</hi> yet if they did well conſider that this was done but till the other Prieſts were Sanctified, certainly they would long before now have provided themſelves of Biſhops.</p>
+            <p>Indeed the Proteſtant Churches beyond the Seas had Biſhops once; and where is the advantage which any of them have received by Rejecting them? Alaſs they are ſo few, that you can ſcarce name any.</p>
+            <p>Indeed if <hi>Toleration</hi> and promiſcuous <hi>Indulgence</hi> of <hi>Hereſies,</hi> which are no where ſo rife, as where there are <hi>no Biſhops,</hi> be an advantage, then <hi>Amſterdam</hi> is as happy, yea happier now, than ever it was. or any other place can be.</p>
+            <p>I find in Mr. <hi>Durels</hi> excellent Treatiſe of <hi>the Confor<g ref="char:EOLhyphen"/>mity of other reformed Churches with the reformed Church of</hi> England, that when ſome religious Prote<g ref="char:EOLhyphen"/>ſtants in the Churches of <hi>Bohemia</hi> were in great ſtraits and under ſtrange Perſecutions, and reſolved to betake
+<pb n="21" facs="tcp:53746:13"/>themſelves unto the Woods and Mountains and Ca<g ref="char:EOLhyphen"/>verns of the Earth, where they might ſerve God ſe<g ref="char:EOLhyphen"/>curely: Nothing ſo troubled them in this their ſad con<g ref="char:EOLhyphen"/>dition as how to <hi>ſupply</hi> the <hi>Defect</hi> and <hi>Mortality</hi> of their lawful <hi>Miniſtery.</hi> For they thought they ſhould in vain expect any Romiſh Biſhop to come amongſt them for the Goſpel ſake; Doubts and Fears did ariſe in their minds, <hi>Whether ſuch an Ordination, by which a Presbyter and not a Biſhop ſhould create another Presbyter, would be lawfull; and how they ſhould be able to maintain ſuch an Ordination as well againſt others, when oppo<g ref="char:EOLhyphen"/>ſed, as to their own people, if by them queſtioned.</hi>
+            </p>
+            <p>
+               <hi>Quaſſabat animos met us, an ſat is legitima foret Ordi<g ref="char:EOLhyphen"/>natio, ſi Presbyter Presbyterum crearet, non vero Epiſ<g ref="char:EOLhyphen"/>copus. Et quomodo talem Ordinationem, ſi lis moveatur defenſuri eſſent, ſive apud alios, ſive apud ſuos,</hi> ſays <hi>Commenius in Fratr. Bohem hiſtoria Sect.</hi> 59.</p>
+            <p>The Reſult of their Doubts and Fears was this in ſhort: They ſent one <hi>Michael Zambergius,</hi> a Mini<g ref="char:EOLhyphen"/>ſter, with two others to the confines of <hi>Moravia</hi> and <hi>Auſtria,</hi> whither they heard ſome of the <hi>Waldenſes</hi> were fled for Conſcience ſake, to acquaint them with their condition, and with what paſs'd amongſt them about the Election of their Miniſters by Lot; and having found <hi>Stephanus</hi> their Biſhop, after they had imparted to each other their ſufferings, and declared their Faith and Doctrine, the ſaid <hi>Michael Zamber<g ref="char:EOLhyphen"/>gius</hi> with his two Collegues, were conſecrated Bi<g ref="char:EOLhyphen"/>ſhops by <hi>Stephanus</hi> and another Biſhop, with ſome Presbyters whom they call'd and joynd with them in that work, and ſo returned home with Epiſcopal power; which was by them tranſmitted to their Succeſſors until this day. Thus Mr. <hi>Durel</hi> pag. 13.</p>
+            <pb n="22" facs="tcp:53746:14"/>
+            <p>If the <hi>Authority</hi> of the <hi>Scriptures,</hi> the <hi>Practice of</hi> the <hi>Primitive Church,</hi> the <hi>Teſtimony</hi> of the <hi>Ancient Fa<g ref="char:EOLhyphen"/>thers,</hi> the <hi>Confeſsion</hi> of ſuch as have been ſhrewdly ſuſ<g ref="char:EOLhyphen"/>pected to be <hi>Adverſaries,</hi> and the <hi>Decrees</hi> and <hi>Canons</hi> of <hi>General Councils</hi> be of any validity herein, we are well enough, and might hope to give ſufficient ſatis<g ref="char:EOLhyphen"/>faction to all that have not Abandon'd their Senſe and Reaſon, and ſhew them cleerly, that to <hi>Biſhops only</hi> belongs the Office of <hi>Ordination.</hi>
+            </p>
+            <p>Nor is it ſtrange that Chriſt hath left this Power with the <hi>Angels</hi> only of his Church: ſince this <hi>laying on of hands</hi> is no <hi>Naked</hi> or <hi>Empty</hi> Solemnity, but the Real conveyance of that Commiſsion from the <hi>Holy Ghoſt.</hi> Which brings me to,</p>
+            <p>The third particular to be handled, which is by way of Deduction, the Joynt concurrence of the <hi>Internal</hi> with the <hi>External</hi> Commiſsion, or the certain <hi>effect</hi> of this <hi>Impoſition of hands, The giving of the Holy Ghoſt.</hi> Of which briefly.</p>
+            <p>You read before, that God hath ſolemnly engaged himſelf to his Church, to accompany their <hi>outward Donation</hi> with the <hi>Gift of his Holy Spirit,</hi> in as much as he directed and commanded his Apoſtles to leave us this pattern of <hi>Ordination:</hi> which is as it were an <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical Procreation,</hi> and to continue as long as God hath a Church in the world.</p>
+            <p>Now that God made good this promiſe in their own <hi>Ordinations</hi> it appears in the forecited place at the 20. of this book, <hi>v.</hi> 28. <hi>Take heed unto the Flock over which the</hi> Holy Ghoſt <hi>hath made you Overſeers;</hi> like an <hi>Unction</hi> as it were, poured forth by <hi>Hands;</hi> Which un<g ref="char:EOLhyphen"/>leſs it had reached farther than the <hi>Apoſtles,</hi> St. <hi>Paul</hi> had never commanded <hi>Titus</hi> to <hi>Ordain Elders</hi> in every City.</p>
+            <pb n="23" facs="tcp:53746:14"/>
+            <p>Now whatſoever belonged unto <hi>Titus,</hi> why may not the <hi>whole Church</hi> lay claim unto it? not doubting but that God who always was ſo <hi>Jealous</hi> of the leaſt Pol<g ref="char:EOLhyphen"/>lution of the Prieſts under the darkneſs of the <hi>Law,</hi> will not leave his Holy Myſteries to be diſſpenſed by <hi>common</hi> hands (for no more they would be, if they were not <hi>ſanctified</hi> by the <hi>Holy Ghoſt,</hi> as well as by the <hi>Biſhop</hi>) now in the Light of his Glorious <hi>Goſpel.</hi>
+            </p>
+            <p>So that Mr. <hi>Calvin</hi> hath no reaſon, while he reckons up ſome of Chriſts <hi>inimitable Actions,</hi> to put together his ſaying to <hi>Lazarus, Lazare veni foràs;</hi> and his ſaying to his Diſciples, <hi>Accipite Spiritum Sanctum.</hi> One of theſe being a <hi>Miracle</hi> neceſſary only at the <hi>firſt</hi> Publiſhing of the Goſpel, the other an <hi>Act</hi> of <hi>perpetu<g ref="char:EOLhyphen"/>al uſe</hi> in the Church to the worlds end. See <hi>Calvins Inſtit.</hi> the 4. <hi>book</hi> 19. <hi>chap.</hi> 29. <hi>Sect.</hi>
+            </p>
+            <p>Thus I have done with the Doctrine of the firſt part of my Text, namely, <hi>The Commiſsion Internal</hi> from the <hi>Holy Ghoſt,</hi> and <hi>External</hi> from the <hi>Church.</hi>
+            </p>
+            <p>I proceed now to the 2. and the laſt part, namely, to ſhew you that <hi>the duty of ſuch as are Commiſsioned by the Holy Ghoſt and the Church is Preaching,</hi> and <hi>what</hi> that <hi>Preaching was, is, or ought to be,</hi> which is the 4. particular.</p>
+            <p>That St. <hi>Paul</hi> and <hi>Parnabas</hi> were to <hi>Preach</hi> the word of God, ſeeing they were Apoſtles, is, I ſuppoſe, deni<g ref="char:EOLhyphen"/>ed by none, and therefore ſhall not trouble the Reader with any further Argumentation, than two or three places of Scripture, whereby to prove that this was their Buſineſs.</p>
+            <p>Says, Jeſus to the Diſciples St. <hi>Matthew</hi> 28. <hi>verſe</hi> 18. <hi>All power is given unto me in Heaven and in Earth, verſe</hi> 19. <hi>Goe ye therefore and teach all Nations,</hi> &amp;c.</p>
+            <pb n="24" facs="tcp:53746:15"/>
+            <q>
+               <p>And verſe 20. <hi>Teaching them to obſerve all things whatſoever I have commanded you.</hi>
+               </p>
+               <p>St. <hi>Mark</hi> the 16. <hi>verſe</hi> 15. <hi>Go ye into all the World, and Preach the Goſpel to every creature.</hi>
+               </p>
+            </q>
+            <p>And in St. <hi>Luke</hi> the 24. <hi>verſe</hi> 47, &amp;c. you may find ſomewhat to the ſame purpoſe, that they were to do ſo: and here in my text as well as in other places we find they <hi>did</hi> ſo, from this time forward, to the day of their death.</p>
+            <p>The <hi>Jewiſh High-Prieſt,</hi> was call'd the <hi>Meſſenger or Angel of the Lord of Hoſts:</hi> namely, becauſe he <hi>execu<g ref="char:EOLhyphen"/>ted</hi> Gods commands in <hi>giving</hi> of the <hi>Law</hi> to the People; and <hi>teaching</hi> them what they ſhould do, <hi>Mal.</hi> the 2. <hi>v.</hi> the 7. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Diodo<g ref="char:EOLhyphen"/>rus Siculus</hi> hath it.</p>
+            <p>And thus under the <hi>New</hi> Teſtament too, ſuch as are to diſpenſe the Word and Sacraments are called, and <hi>therefore</hi> called <hi>Meſſengers of God,</hi> or <hi>The Churches An<g ref="char:EOLhyphen"/>gels</hi> For look what the duty of an <hi>Ambaſſador</hi> or <hi>Meſſenger</hi> upon Earth, of an Earthly Potentate is, the ſame is the Buſineſs of the <hi>Miniſters of God, viz.</hi> to de<g ref="char:EOLhyphen"/>clare his Will, and to treat about matters of concern<g ref="char:EOLhyphen"/>ment, which is done, as by other ways, ſo by this too of <hi>Preaching.</hi> Which what it was then, and what it is or <hi>ought to be now,</hi> comes next to be diſcourſ'd of.</p>
+            <p>The <hi>Preaching</hi> then (and indeed ſuch it ought to be <hi>Now</hi>) was the declaration of the Goſpel of Chriſt, or the glad tidings of Salvation whereby men were ſecured of eternal happineſs upon condition of Repen<g ref="char:EOLhyphen"/>tance from dead works, and a ſtedfaſt Faith in all Gods Attributes: and (whereſoever there is defect, as there is indeed in the beſt of our performances) an Affiance in the Merits of Chriſt. <hi>That</hi> Goſpel or Doctrine <hi>they</hi>
+               <pb n="25" facs="tcp:53746:15"/>Preach'd <hi>which</hi> came <hi>down</hi> from <hi>Heaven, which</hi> was <hi>in<g ref="char:EOLhyphen"/>ſpired</hi> and <hi>ſealed</hi> by the <hi>Holy Ghoſt,</hi> and <hi>confirmed</hi> by <hi>Miracles.</hi> And this they did by immediate Inſpiration of God.</p>
+            <p>We live in an age whoſe Religion dwells altogether in their <hi>Ears:</hi> ſo little are we for the <hi>Practice.</hi> They think <hi>now</hi> a days, that <hi>Preaching,</hi> as they call it, not as the <hi>Scriptures</hi> mean it, and <hi>Pulpit, Extemporary Diſcourſes</hi> are the ſum total of the <hi>Prieſtly</hi> duty, and the <hi>beſt</hi> of <hi>Chriſtian Privileges.</hi>
+            </p>
+            <p>But this is a groſs <hi>Abuſe</hi> both of the <hi>thing,</hi> the <hi>Prea<g ref="char:EOLhyphen"/>chers,</hi> and <hi>themſelves.</hi> For let it be granted, as moſt true it is, that <hi>Preaching</hi> is an holy, excellent <hi>Ordi<g ref="char:EOLhyphen"/>nance of God,</hi> appointed by him for the ſalvation of Souls, if warrantably undertaken, and rightly managed and performed; It may be a Comfort to the Conſci<g ref="char:EOLhyphen"/>ence that is Comfortleſſe, a Relevation to Souls that are Afflicted, a Deletory for Sin, an helpful means to a good life, and an excellent inſtrument tending to pro<g ref="char:EOLhyphen"/>mote all the parts of Gods ſervice, and at laſt to bring us to Salvation.</p>
+            <p>
+               <hi>It pleaſeth God,</hi> ſaith St. Paul 1 Cor. 1.21. <hi>by the fooliſhneſs of Preaching to ſave ſome,</hi> and, ſaving, true <hi>Faith comes by Hearing, and Hearing by the Word of God, and how ſhall they hear without a Preacher?</hi> ſays the ſame Apoſtle to the <hi>Romanes, chap.</hi> 10. <hi>v.</hi> the 14.</p>
+            <p>But then we muſt not miſtake, but warily diſtin<g ref="char:EOLhyphen"/>guiſh what is meant by the <hi>Word of God,</hi> which is, <hi>The Doctrine of the Goſpel,</hi> and what by <hi>Preaching,</hi> which is, <hi>Not</hi> the <hi>manner of delivering,</hi> but the <hi>matter deli<g ref="char:EOLhyphen"/>vered.</hi>
+            </p>
+            <p>For notwithſtanding all the wonderfull and rare Ef<g ref="char:EOLhyphen"/>fects, which may be wrought by <hi>Preaching,</hi> yet <hi>Preach<g ref="char:EOLhyphen"/>ing</hi>
+               <pb n="26" facs="tcp:53746:16"/>and <hi>Sermons,</hi> ſuch as are now in uſe, are <hi>not</hi> the <hi>Word of God,</hi> in the <hi>propereſt</hi> and <hi>ſtricteſt</hi> ſenſe; Though yet the Engliſh Puritan will not believe this, inſomuch that he magnifies any <hi>Pulpit Diſcourſe, above</hi> the writ<g ref="char:EOLhyphen"/>ten <hi>Word</hi> of <hi>God,</hi> comprehended in the Writings of the Prophets and Apoſtles, daily read in Churches at the ſet time of Divine Service, and which he makes of <hi>little</hi> or <hi>no</hi> eſteem or uſe in the converſion of Soules unto God; Beleeving it to be much inferiour to that of <hi>Preaching</hi> upon a Text by the ſandy Clock.</p>
+            <p>Certainly, <hi>That</hi> thing which <hi>ſweetens others,</hi> muſt be far <hi>ſweeter</hi> of it <hi>ſelf;</hi> And if the <hi>waters</hi> in the <hi>channels</hi> or the <hi>veyns</hi> of the <hi>Earth</hi> be ſo <hi>pure</hi> and <hi>pleaſant,</hi> how much more <hi>excellent</hi> and <hi>wholeſome</hi> muſt the <hi>Spring</hi> it ſelf be, and the place <hi>from whence</hi> thoſe Waters flow? In the <hi>one</hi> there is no fear of the Spawn of Toads, or the Vipers venome: no deſtructive ſoul-damning Te<g ref="char:EOLhyphen"/>nents of Hereticks to be found in the Scriptures, impoſed on us; whereas by too ſad experience we have known and find it, that the <hi>peſtiferous</hi> breath of ſome <hi>Pulpit<g ref="char:EOLhyphen"/>men</hi> hath been that which hath firſt given life to the Factions and Hereſies in this our Church, and then by their laying about with their Hands and Tongues, hath fired the Church and Kingdom, nay almoſt burn'd it to aſhes, had not God in his mercy, as well as in his Juſtice, removed the Incendiaries; who becauſe they cannot daringly go on and proſper, lay all the Pri<g ref="char:EOLhyphen"/>vate trains they can to diſturb our Peace, the Peace of the Church and Kingdome too, and to break our Unity.</p>
+            <p>I ſhall not inveigh here againſt the ſecular ends and Ungodly Intereſts which of late were introduced by this their <hi>Phariſaical</hi> kind of piety, nor tell you how
+<pb n="27" facs="tcp:53746:16"/>they corrupted the <hi>ſavour of life</hi> into <hi>a ſavour of death. (Corruptio optimi eſt peſsima.)</hi> You well know the Seditions and Diſturbances, the Cheats and Treaſons, Murders, Plunders, Sequeſtrations, Impriſonments, Baniſhments, &amp;c. which were cauſed and acted by ſome mens <hi>publick</hi> as well as <hi>private</hi> Inſinuations, whoſe Cal<g ref="char:EOLhyphen"/>ling gave them too great an opportunity, and all under the notion of <hi>Painful, Soul-ſaving, Godly Preachers, ſuperſeminare haereſin,</hi> to ſcatter tares in the Field of God, and <hi>ſow that</hi> which <hi>Preaching</hi> ought to <hi>Root up.</hi>
+            </p>
+            <p>And as one ſays very well for me, Preaching and Thirſting after the Word, are ſo good things, that the very <hi>Names</hi> of them may miſlead good People if they be miſapplyed: And ſo they are very often; For a great many there are that moſt vainly and impertinent<g ref="char:EOLhyphen"/>ly apply to <hi>Sermons</hi> or <hi>popular Orations</hi> all thoſe glori<g ref="char:EOLhyphen"/>ous things which are ſpoken of the <hi>Word of God,</hi> and of <hi>Preaching,</hi> as Faith and Salvation, <hi>Ro.</hi> 10.14. 1 <hi>Cor.</hi> 1.21.</p>
+            <p>Man by the Fall got a crack in his Underſtanding, his Wil grew Perverſe, and his Affections dull and heavy: All the Faculties of his Soul are depraved, and he is ready to comply with any thing but the commands of God, and Obedience to the truth: and therefore in<g ref="char:EOLhyphen"/>deed upon this conſideration, it may, it muſt be granted, that there is more need of humane Artifice, witty Complyings, ſober Inſinuations and Ingenious devices to recover men from the errors of their ways, and to keep them right when they are ſo; But this may be done by other ways (would men admit of the Tryal) as well, nay better, and with more eaſe, than by the <hi>Pul<g ref="char:EOLhyphen"/>pit.</hi> For I do beleeve (for I know no reaſon to the con<g ref="char:EOLhyphen"/>trary)
+<pb n="28" facs="tcp:53746:17"/>as many ſouls went to Heaven <hi>Before,</hi> as do <hi>Now,</hi> that we have ſo much <hi>Vulpit Preaching.</hi>
+            </p>
+            <p>And yet miſtake me not: For I do not ſay this to decry and undervalue Preaching, that ancient Eccleſi<g ref="char:EOLhyphen"/>aſtical Ordinance, but to magnifie the <hi>Reading</hi> and <hi>Hearing</hi> of the <hi>Scriptures,</hi> which are indeed the <hi>Word</hi> of <hi>God:</hi> and to teach you that the <hi>Scriptures</hi> are the beſt of <hi>Sermons.</hi>
+            </p>
+            <p>
+               <hi>That</hi> Word which came down from <hi>Heaven,</hi> and was <hi>ſealed</hi> by the <hi>Spirit</hi> of <hi>God: That</hi> Word which has been <hi>ſpoke</hi> by the mouth of all the Holy <hi>Prophets</hi> and <hi>Apo<g ref="char:EOLhyphen"/>ſtles: That</hi> Word which has been <hi>watered</hi> with the <hi>Blood</hi> of <hi>Martyrs, confirmed</hi> by <hi>Miracles,</hi> and ſtrangely preſerved even <hi>beyond</hi> all <hi>Miracle,</hi> and <hi>Believed</hi> in all ages: And <hi>which</hi> Word, which way, or in what man<g ref="char:EOLhyphen"/>ner ſoever it be conveyed unto us, whether by Reading in Leſſons, or Epiſtles or Goſpels, is the ſame thing ſtill, and ought to have the higheſt eſtimate in our Affecti<g ref="char:EOLhyphen"/>and challenges as greedy an ear as any thing can doe.</p>
+            <p>That the <hi>Reading</hi> of the <hi>Scriptures</hi> in the <hi>Church,</hi> is <hi>Preaching to the People,</hi> I ſhall give you ſome unqueſti<g ref="char:EOLhyphen"/>onable Teſtimonies of <hi>Councils</hi> and <hi>Fathers:</hi> and if this be not ſufficient, or whether it be or no, produce the Supreme Authority of the <hi>Scriptures</hi> them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>Let the firſt be that of <hi>Juſtin Martyr</hi> in his ſecond Apology to the Gentiles, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is to ſay, <hi>On the Day called Sun<g ref="char:EOLhyphen"/>day all that abide in Towns or the Countreys about, meet
+<pb n="29" facs="tcp:53746:17"/>in one place, and the Records of the Apoſtles, or the Wri<g ref="char:EOLhyphen"/>tings of the Prophets are read, as far as occaſion ſerveth. Then the Reader having done, the Preſident in a ſpeech inſtructeth, and exhorteth to the imitation of ſuch ex<g ref="char:EOLhyphen"/>cellent things;</hi> and in another place he ſays, that <hi>In their Writings</hi> the Judgment to come is <hi>Preached.</hi>
+            </p>
+            <p>Take another from St. <hi>Chryſoſtom,</hi> who was as great and as golden a Preacher as ever ſpake with Tongue: yet his Writings tell us that it grieved his very ſoul to ſee men <hi>Flock</hi> and <hi>Crowd more</hi> to hear his <hi>Pulpit Diſcourſes,</hi> than they did to hear the <hi>Scriptures</hi> Read in time of Divine Service; a Fault too common in this our age. I ſhall quote you his own words, make the beſt you can of them, where he tells you that <hi>All things that are neceſſary to Salvation, are plain and obvi<g ref="char:EOLhyphen"/>ous to the eyes, cleerly layed down in the Scriptures, ſo that reading is ſufficient to convey the knowledge of them to us:</hi> and as for other things it is ſufficient that they are not Neceſſary: and that it is mens <hi>Curioſity</hi> or <hi>Sloth<g ref="char:EOLhyphen"/>fulneſs,</hi> I may add their <hi>Invincible Ignorance,</hi> that makes them ſo greedy of ſo much <hi>Pulpit Preaching.</hi> The good Fathers words are, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. If you look into the <hi>Council of Vaſe,</hi> you will find that the Fathers of that Council ſay, <hi>The Prieſts being abſent or troubled with Infirmity, do Preach by their Deputies, who are appointed in their ſtead to read the Homilies. Lector perſonat verbà ſublimia,</hi> ſaith St. Cyprian, <hi>Evangelium Chriſti legit, à fratribus conſpicitur, cum gaudio fraternitatis au<g ref="char:EOLhyphen"/>ditur.</hi>
+            </p>
+            <p>The fourth Council of <hi>Toledo</hi> calls the uſual <hi>Read<g ref="char:EOLhyphen"/>ing</hi>
+               <pb n="30" facs="tcp:53746:18"/>of the Goſpel <hi>Preaching.</hi> And I meet with the ſame Opinion and expreſsion divers times in <hi>Ruper<g ref="char:EOLhyphen"/>tus</hi> and <hi>Iſidore</hi> in their Pooks <hi>de Officiis divinis &amp; Eccleſiaſticis. Iſid. lib.</hi> 1. <hi>chap.</hi> 10. <hi>Rupert. lib.</hi> 1. <hi>ch.</hi> 12, 13.</p>
+            <p>But if theſe authorities be not ſufficient, hear what the <hi>Scriptures</hi> themſelves doe ſay, <hi>Deuteron.</hi> 31. <hi>v.</hi> 13. <hi>Ye ſhall Read this Law before all Iſrael, that ye may learn to Fear the Lord. Bleſſed is he that Reads the Words of this Prophecy,</hi> ſaith St. John, <hi>and they that Hear and keep thoſe things which are Written therein,</hi> Revel. 1. ver. 3. and Acts 15. ver. 21. <hi>Moſes of old time hath them that Preach him, in that he was Read,</hi> or <hi>being Read every Sab<g ref="char:EOLhyphen"/>bath day.</hi>
+            </p>
+            <p>And ſurely good reaſon there is, that the Scrip<g ref="char:EOLhyphen"/>tures and the <hi>Reading</hi> thereof ſhould be preferr'd before that thing we call <hi>Preaching</hi> in the <hi>Pulpit.</hi>
+            </p>
+            <p>For the <hi>One</hi> is the <hi>Immediate</hi> word of <hi>God</hi> who is <hi>In<g ref="char:EOLhyphen"/>fallible,</hi> the <hi>Holy Ghoſt</hi> did Preach it: The <hi>Other</hi> are the words of a <hi>Mortal Red Earth,</hi> who <hi>knows not</hi> the thouſand part of what he is <hi>ignorant. Humanum eſt er<g ref="char:EOLhyphen"/>rare.</hi> Our Sermons are no farther pious and religious than that they are derived from the ſalutary Fountains of Holy Scripture. They never were confirmed by Miracles from Heaven, nor ſhall they be, as the Scrip<g ref="char:EOLhyphen"/>tures have been.</p>
+            <p>And then for the <hi>Matter</hi> delivered, and the <hi>Manner</hi> of the <hi>Delivery,</hi> how <hi>Poor</hi> and <hi>Jejune</hi> and <hi>Shallow</hi> will the beſt ſhapen Words and Narratives of the beſt <hi>Rhe<g ref="char:EOLhyphen"/>toricians, Orators, Poets,</hi> or <hi>Hiſtorians</hi> appear, when compared with the ſacred <hi>Oracles of God?</hi>
+            </p>
+            <p>Would you have the Efficacy of <hi>Preaching</hi> to con<g ref="char:EOLhyphen"/>ſiſt in <hi>Derivation</hi> from <hi>Antiquity,</hi> in the <hi>ſubſtance</hi> of
+<pb n="31" facs="tcp:53746:18"/>
+               <hi>Matter,</hi> in <hi>Appoſiteneſs</hi> of <hi>Sentences,</hi> in <hi>Elegancy</hi> of <hi>Style, Evidence</hi> of <hi>things,</hi> in <hi>validity</hi> of <hi>Proofs,</hi> in the <hi>Autho<g ref="char:EOLhyphen"/>rity</hi> of the <hi>Author,</hi> and the <hi>Power</hi> it hath to effect that end for which it was <hi>ordain'd?</hi> Take up the <hi>Scriptures</hi> then, and fall to Reading, and Frequent the Temple where it will be <hi>Preach'd, i. e. Read</hi> unto you, and the Lord give you a good and a right underſtanding.</p>
+            <p>
+               <hi>By ſearching the Scriptures we look for life,</hi> ſo ſaid our Bleſſed Saviour, <hi>They have Moſes and the Prophets, let them hear them.</hi> For, <hi>Theſe things are written that ye might beleeve in him,</hi> i. e. Chriſt, <hi>and that Beleeving ye might have life through his name.</hi>
+            </p>
+            <p>You know who ſaid it, <hi>Curſed is he that Adds or Di<g ref="char:EOLhyphen"/>miniſhes.</hi> I only ſay, The bringing in of ſo many Ser<g ref="char:EOLhyphen"/>mons into the Church was the thruſting out of the Bible not long ſince.</p>
+            <p>The Church both <hi>can</hi> and <hi>doth Preach</hi> without Ser<g ref="char:EOLhyphen"/>mons, namely, when by her carefull order, the books of Holy Writ are ſolemnly <hi>Read.</hi>
+            </p>
+            <p>And truly, for ought I know, as the Learned Mr. <hi>Thornedike,</hi> in his Juſt Weights and Meaſures, page 101. ſays, and moſt wiſe men believe, <q rend="inline">they that never heard many <hi>Sermons</hi> may have heard more and better <hi>Preaching,</hi> than hundreds and thouſands of <hi>Sermons, dangerous,</hi> if not <hi>deſtructive,</hi> to <hi>Salvation,</hi> (a thing which experience proves <hi>more</hi> than <hi>poſsible</hi>) can fur<g ref="char:EOLhyphen"/>niſh them, who ſhall do nothing elſe but <hi>run from Ser<g ref="char:EOLhyphen"/>mon to Sermon.</hi>
+               </q>
+            </p>
+            <p>
+               <q>I grant it was a juſt complaint at the Reformation, that the People were not taught their duty. But I do not grant, either that they cannot be taught their Duty, without <hi>two Sermons</hi> every Lords Day: or that they are like to be taught their Duty, by two ſer<g ref="char:EOLhyphen"/>mons every Lords day.</q>
+            </p>
+            <pb n="32" facs="tcp:53746:19"/>
+            <p>It is not poſsible to have men for all Churches fit to preach twice a day, to the edifying of the People. It will never be poſsible to maintain their Preaching to be ſuch as may be accounted an Office of Gods ſervice, Thus <hi>He,</hi> and conſequently not a <hi>Diſcharge</hi> of the <hi>Holy Ghoſts</hi> and <hi>the Churches Commiſsion,</hi> ſo I. But you may read more concerning this point in the 5 book of the Judicious Mr. <hi>Hooker.</hi>
+            </p>
+            <p>Thus I have done with the <hi>Explication</hi> of the parts or <hi>Doctrines</hi> deducible from the Text.</p>
+            <p>Let us now look upon them in the <hi>Uſe</hi> of them; and from the <hi>Four</hi> particulars named, we ſhall receive eſpe<g ref="char:EOLhyphen"/>cially <hi>Four</hi> Cautions towards the better performance of our Duty, in order to the ſacred charge under<g ref="char:EOLhyphen"/>taken.</p>
+            <p>One for the <hi>Biſhop,</hi> three for the <hi>Prieſts.</hi>
+            </p>
+            <p>Firſt, From the <hi>Grant of our Commiſsion from the Holy Ghoſt;</hi> Not to dare to enter upon this <hi>Employment</hi> except we find our ſelves in ſome meaſure <hi>fit</hi> for the diſcharge of it.</p>
+            <p>Second, From the <hi>Grant of our Commiſsion from the Church;</hi> Not to forget what <hi>Obedience</hi> we owe to our <hi>Spiritual Fathers in God.</hi>
+            </p>
+            <p>Third, From <hi>the efficacy of Impoſition of Holy Hands towards the conferring of the Holy Ghoſt;</hi> That Biſhops uſe all poſsible care, as they ſhall one day anſwer it, not only for themſelves, but for all thoſe, whom they may by their own neglect, or theirs whom they intruſt for them, ſuffer to run upon their own Perdition, not to diſpenſe this ſacred Gift of the Holy Ghoſt, but to the <hi>Glory</hi> of <hi>God,</hi> and the <hi>Improvement</hi> and <hi>Benefit</hi> of the <hi>Church.</hi>
+            </p>
+            <p>And laſtly, From <hi>their careful applying themſelves
+<pb n="33" facs="tcp:53746:19"/>to the Execution of their charge, in Preaching</hi> the word; That we prove <hi>diligent</hi> followers of ſo good an <hi>Ex<g ref="char:EOLhyphen"/>ample.</hi>
+            </p>
+            <p>Each of theſe are very Weighty, and might be very worthy Conſideration. I ſhall but touch upon each of them as far as is neceſſary, and ſo conclude; For to ſay true, if the <hi>Firſt</hi> and the <hi>Laſt</hi> only were well <hi>obſerv'd,</hi> the <hi>Reſt</hi> might be <hi>Spared.</hi>
+            </p>
+            <p>Were All that come for Holy Orders fit for the Exe<g ref="char:EOLhyphen"/>cution of their charge, they would be better acquain<g ref="char:EOLhyphen"/>ted with their <hi>Duty</hi> to the Church, than to <hi>ſmother</hi> or to <hi>ſpurn</hi> at her <hi>Commands,</hi> and were all both <hi>Able</hi> and Likely to be <hi>Diligent</hi> in the <hi>uſe</hi> of their <hi>Abilities</hi> after<g ref="char:EOLhyphen"/>wards, the <hi>Biſhops choice</hi> would be made to his Hands, it being impoſsible for him to grant <hi>amiſs,</hi> when <hi>none</hi> ask but ſuch to whom he ought not to deny.</p>
+            <p>To begin with the <hi>Firſt</hi> of theſe, That none pre<g ref="char:EOLhyphen"/>ſume to enter upon this great Employment, except they find themſelves <hi>fit</hi> in ſome meaſure for the diſ<g ref="char:EOLhyphen"/>charge of it, <hi>fit</hi> for <hi>Abilities</hi> of <hi>Knowlege</hi> in the <hi>Myſte<g ref="char:EOLhyphen"/>ries</hi> of God, and <hi>fit</hi> too for <hi>Piety</hi> of <hi>Life.</hi>
+            </p>
+            <p>
+               <hi>Fit firſt,</hi> for <hi>Abilities</hi> of <hi>Knowledge.</hi> None ought to thruſt themſelves (as in a matter of courſe, after ſome years ſpent in a Gown) upon this ſervice of God, with any of their Learning in their too eaſily procured Teſti<g ref="char:EOLhyphen"/>monials; Theſe will not ſufficiently qualify. For thus while they cry out againſt <hi>Tamar,</hi> they themſelves prove <hi>Judah,</hi> nothing differing from thoſe whom they think meanly of, but in that <hi>Theſe profeſs</hi> Ignorance; <hi>They</hi> themſelves only being <hi>guilty</hi> of it. Theſe are not fit Meſſengers for the <hi>Holy Ghoſt;</hi> For he doth not ex<g ref="char:EOLhyphen"/>pect the <hi>Deaf</hi> and the <hi>Dumb,</hi> the <hi>Blind</hi> and the <hi>Lame</hi> ſhould offer themſelves to go upon his Embaſſy. He
+<pb n="34" facs="tcp:53746:20"/>calls for <hi>Witneſſes</hi> (Hay-Fellow-Witneſſes, for both the <hi>Apoſtles</hi> and the <hi>Holy Ghoſt</hi> too are <hi>Witneſſes</hi> of theſe things <hi>Acts</hi> 5.32.) and we muſt not preſent him ſuch, who are indeed <hi>too</hi> ready to be ſworn, but know <hi>nothing</hi> of the cauſe in trial. How will theſe invite Chriſts Gueſts to his Supper in the Parable, St. <hi>Luke</hi> 14.16. that know not themſelves where it is kept? Whoſe Hearers excuſe will be, Not, <hi>I have bought a Farm or Oxen, I have married a Wife;</hi> But, you tell me not <hi>where</hi> the Feaſt is, I am unacquainted with the <hi>way.</hi> And do ye not think <hi>thoſe ſo bidden</hi> will taſt as much of the Supper, as theſe <hi>Bidders?</hi>
+            </p>
+            <p>S. <hi>Paul</hi> counts it nothing leſs than a ſwerving from the Faith (&amp; thats ſomewhat of kin to Apoſtacy) <hi>to deſire to be teachers of the Law, underſtanding neither what they ſay, nor whereof they affirm:</hi> 1 <hi>Tim.</hi> 1.6, 7. Such in<g ref="char:EOLhyphen"/>deed may eſcape our Saviours Woe to the Lawyers for taking away the Key of knowledge: for that they never had it. Hence it comes to paſs, that when men are forc'd into the Pulpit by the Peoples <hi>Out-cries,</hi> or through <hi>Ignorance</hi> or <hi>Indigency,</hi> they Preach neither Chriſt nor themſelves, but their Pariſh: knowing no difference between the Doctrine of the Church, and the Opinions of the Vulgar; which in a little time ſhall make ſuch Preachers vile enough amongſt <hi>them</hi> too. And miſerable men that muſt be frighted into their Duty, to avoid the contempt of their Hearers. Shall any man make ſo little account of deſtroying Gods People, when he is ſent amongſt them to build them up? of polluting that Fountain of Living Waters, which he ought to give clear paſſage to? Nay, dare any man faſten ſo many errors and abſurdities upon the <hi>Holy Ghoſt</hi> himſelf, whoſe Meſſage he undertakes to
+<pb n="35" facs="tcp:53746:20"/>deliver? What is this leſſe than <hi>preſumptuous ſin,</hi> for which under the Law there was <hi>no</hi> Sacrifice? which whoſoever is guilty of, let him know, that he grieves that Spirit, whoſe Gift he begs at his Ordination, and it will coſt him ſome <hi>Groans</hi> too if ever he mean it ſhall be turned to a <hi>Bleſsing.</hi>
+            </p>
+            <p>Secondly, It is required that they be <hi>fit</hi> for <hi>Piety</hi> of <hi>Life;</hi> And <hi>this</hi> condition hath ſo great Affinity with the <hi>Former,</hi> that we may juſtly fear to be depriv'd of <hi>both,</hi> if we be guilty of the want of <hi>either.</hi> Thus <hi>Balaam</hi> being ſo far poſſeſſed of the Love of the <hi>world,</hi> and his profer'd <hi>Preferment</hi> with King <hi>Balak,</hi> that he was in hopes God would change his purpoſe, and ſuffer him to go and curſe <hi>Iſrael,</hi> had at laſt an anſwer fitting his humour, but ſuch a one as prov'd a <hi>crime</hi> to hearken to.</p>
+            <p>Methinks a man that knows himſelf enamoured with the Delights, or that is reſolved upon the Trade of Sin, ſhould be as much afraid of having any thing to do with the <hi>Holy Ghoſt,</hi> as the <hi>Gadarenes</hi> were of ha<g ref="char:EOLhyphen"/>ving Chriſt among them, which a Learned Commen<g ref="char:EOLhyphen"/>tator attributes to their <hi>guilty Conſciences,</hi> not their <hi>loſs</hi> of the <hi>Swine.</hi> For how can ſuch preſume to have more Joy in Gods preſence, than <hi>Abimelech</hi> and <hi>Laban</hi> had in his appearing to them, which was neither to <hi>give</hi> nor <hi>promiſe</hi> them any Bleſsing, but only to rebuke them?</p>
+            <p>The <hi>Canon</hi> Law forbids the Church to receive <hi>Tithes</hi> from the <hi>Profits of ſin:</hi> Not that the <hi>Thief,</hi> the <hi>Uſurer</hi> or the <hi>Harlot</hi> have any Privilege or Exemption granted them, but in as much as <hi>God</hi> cannot accept ſuch Oblations, and therefore neither muſt the <hi>Parſon.</hi>
+            </p>
+            <p>And dare we offer our ſins themſelves, for the Im<g ref="char:EOLhyphen"/>ployment
+<pb n="36" facs="tcp:53746:21"/>of the Holy Ghoſt? as though he could be content with Servants that ſcorn to wear any but the Devils Livery. Such who, if we were to offer (as the Prieſts under the Law were) the ſame ſacrifice for our own Sins, and for the Sins of the Congrega<g ref="char:EOLhyphen"/>tion, might be quit with God for the Number (with reverence be it ſpoken) as being able to vie ſins with the whole Congregation?</p>
+            <p>Far more excuſe it would be for them to ſtay behind, and Bury their Dead (and free Leave they might have) than thus to follow Chriſt: to follow Chriſt into the <hi>Holy</hi> of <hi>Holies,</hi> while they are not fit ſo much as to come within the <hi>Camp</hi> for <hi>Uncleanneſs.</hi>
+            </p>
+            <p>I dare not ſpeak this out of any Preſumption of my own either Abilities or Uprightneſs; But do acknow<g ref="char:EOLhyphen"/>ledge my ſelf to have as much need of <hi>Hezekiahs</hi> Pray<g ref="char:EOLhyphen"/>er (2 <hi>Chron.</hi> 30.18.) as any of my Brethren, <hi>The good Lord pardon every one that prepareth his heart to ſeek the Lord, though he be not prepared or cleanſed according to the Purification of the Sanctuary.</hi>
+            </p>
+            <p>And may the Lord hearken to theſe words, and ſo <hi>Sanctify</hi> all thoſe by the Baptiſm of the <hi>Holy Ghoſt,</hi> that are, or ſhall hereafter be Ordained to the <hi>Miniſte<g ref="char:EOLhyphen"/>rial Function,</hi> that they may never Forget whoſe ſer<g ref="char:EOLhyphen"/>vice they undertake, and their Canonical Obedience to the Fathers of the Church, which comes next to be look'd into; as being deduced</p>
+            <p>From the <hi>Grant of their Commiſsion from the Church,</hi> which is, that they forget not to <hi>Honour</hi> and <hi>Obey</hi> all ſuch under whoſe <hi>Protection</hi> and <hi>Government</hi> in the Church they are.</p>
+            <p>Did men but ſeriouſly conſider that Voluntary, ſo<g ref="char:EOLhyphen"/>lemn <hi>Oath</hi> which they take at their <hi>Ordination,</hi> to ob<g ref="char:EOLhyphen"/>ſerve
+<pb n="37" facs="tcp:53746:21"/>the Canons and Articles of the Church, and this in the <hi>preſence</hi> of <hi>God</hi> and the <hi>Biſhop,</hi> upon the pain of <hi>Deſtruction,</hi> we ſhould not then have any cauſe to com<g ref="char:EOLhyphen"/>plain of <hi>Neutrality, Prevarication,</hi> and <hi>Indifferency</hi> in the Execution of their Office. They would not then <hi>Grumble</hi> and <hi>Spurn</hi> at the Churches <hi>Injunctions,</hi> and <hi>cheat</hi> the ſouls of ſuch as are committed to their charge, into ruine. But thanks be to God, that this may be cured by the care and Vigilance of our good Biſhops; and therefore the leſs may ſuffice to be ſpoken to it.</p>
+            <p>Pardon, O Pardon me, my moſt <hi>Honourable</hi> and al<g ref="char:EOLhyphen"/>ways to be <hi>Revered</hi> Fathers, if the Text by my poor Pen re-minds you, that you are to uſe all poſsible care concerning the <hi>Perſons</hi> to whom you diſpenſe the ſa<g ref="char:EOLhyphen"/>cred <hi>Gift</hi> of the <hi>Holy Ghoſt.</hi> I know you neither con<g ref="char:EOLhyphen"/>fide in <hi>Teſtimonials</hi> alone, nor <hi>Parts</hi> without <hi>Good Re<g ref="char:EOLhyphen"/>port</hi> of them that are without; You are to <hi>Command</hi> and <hi>Rule,</hi> We to <hi>obey.</hi> And therefore I return to ſuch as are, or are to be Commiſsion'd.</p>
+            <p>You read in the Diviſion of the Text, that <hi>Preach<g ref="char:EOLhyphen"/>ing</hi> was St. <hi>Pauls</hi> and St. <hi>Barnabas</hi>'s charge, (and con<g ref="char:EOLhyphen"/>ſequently ours,) in a <hi>Synechdoche</hi> only, and not the whole performance that lies upon us. There is likewiſe neceſſary a right and due, frequent adminiſtration of the <hi>Euchariſt,</hi> and of <hi>Baptiſm,</hi> as oft as need requires, a <hi>Reconciling</hi> of Neighbours that are at variance, and a <hi>catechiſtical</hi> Inſtruction of all ſuch as are of younger years, this is our duty too. But although <hi>Preaching</hi> be not the ſum total of our duty that lies upon us, yet we muſt take heed of ſeeking advantage from hence, we muſt not leave it quite <hi>out.</hi>
+            </p>
+            <p>There are ſometimes <hi>neceſſary</hi> diverſions from it (I ſpeak of thoſe who have a charge of ſouls committed
+<pb n="38" facs="tcp:53746:22"/>to them,) occaſions of the ſame importance for the good of the Church with <hi>Preaching:</hi> but it will not be ſafe for any to ſnatch up theſe for a pretence to <hi>Idle<g ref="char:EOLhyphen"/>neſs,</hi> and think he can anſwer <hi>God</hi> as eaſily as <hi>Man;</hi> As if God had layed aſide that Attribute which <hi>Moſes</hi> leaves not out, even while he implores his Mercy, <hi>Num.</hi> 14.18. <hi>By no means cleering the guilty.</hi> He that would teach the people that he ought to have liberty ſometimes to forbear, ſhould do it by his Doctrine, not by his Practice: as our Saviour dealt with the Phari<g ref="char:EOLhyphen"/>ſees, firſt vindicating the Lawfulneſs of doing even ſer<g ref="char:EOLhyphen"/>vile works on the Sabbath, and yet for the preſent for<g ref="char:EOLhyphen"/>bearing himſelf to do them, as <hi>Grotius</hi> obſerves; For he heals the man <hi>without</hi> ſo much as a <hi>Touch,</hi> only ſay<g ref="char:EOLhyphen"/>ing to him, <hi>Stretch forth thine hands, Mat.</hi> 12.13.</p>
+            <p>If <hi>all</hi> the Lords People were <hi>Prophets,</hi> there would yet be need of <hi>frequent Preaching,</hi> ſo much adoe we have to Learn to <hi>Practiſe,</hi> what we know never ſo cleerly.</p>
+            <p>But then if we look upon the <hi>Late</hi> times, whoſe <hi>too much</hi> and <hi>dangerous</hi> Preaching, has been far worſe than the <hi>Neglect</hi> of Preaching, how will it concern every one, now that God hath reſtored our lately miſerable Church to <hi>Peace</hi> and <hi>Order,</hi> to ſet our ſelves to <hi>weed<g ref="char:EOLhyphen"/>ing</hi> apace, to root up every plant our Heavenly Father hath not planted: and to be at leaſt nothing leſs ſedu<g ref="char:EOLhyphen"/>lous in ſeaſoning the Lump with the Leaven of the Kingdom of Heaven, than our <hi>Adverſaries</hi> have been, and are, <hi>in ſcattering</hi> the <hi>Leaven</hi> of the <hi>Phariſees?</hi> ſo ſhall we deliver our own ſouls, and not cut off thoſe commit<g ref="char:EOLhyphen"/>ted to our charge (<hi>Num.</hi> 4.17.) from among their Bre<g ref="char:EOLhyphen"/>thren; ſo ſhall we give proof of thoſe <hi>Gifts</hi> of the <hi>Holy Ghoſt</hi> which we receive at our Ordination: and having
+<pb n="39" facs="tcp:53746:22"/>diſcharg'd our <hi>Conſciences</hi> here, in ſowing the good ſeed committed to us, we ſhall hereafter reap Life ever<g ref="char:EOLhyphen"/>laſting. Which God of the Riches of his Mercy grant all the <hi>Clergy</hi> and <hi>People</hi> of this Land, for the Me<g ref="char:EOLhyphen"/>rits and Satisfaction of his Son Jeſus Chriſt: to whom with the Father and the Holy Ghoſt be rendred as is moſt due, all Honour, Power and Glory for ever and ever. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
